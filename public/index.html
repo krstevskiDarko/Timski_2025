@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Veterinary Clinics Map</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css"/>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet"/>
+
+    <style>
+        html, body {
+            height: 100%;
+            margin: 0;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f9fa; /* Match background color */
+            display: flex;
+            flex-direction: column;
+        }
+
+        .content {
+            flex: 1; /* Allow content to grow and fill available space */
+        }
+
+        #map {
+            height: 600px; /* Set the height of the map */
+        }
+
+        .tooltip {
+            position: absolute;
+            text-align: center;
+            padding: 8px;
+            font: 12px sans-serif;
+            background: lightsteelblue;
+            border: 0px;
+            border-radius: 8px;
+            pointer-events: none;
+        }
+
+        footer {
+            background-color: #343a40;
+            color: rgb(108, 117, 125);
+            text-align: center;
+            padding: 10px 0;
+            width: 100%;
+        }
+
+        footer p {
+            margin: 0;
+            font-size: 0.8rem;
+        }
+    </style>
+</head>
+<body>
+
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark px-3">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">Ветеринарни клиники во Р.С Македонија</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav ms-auto">
+                <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="interactiveMap.html">Почетна</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="AddressPage.html">Адресар</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="forProduction.html">За изработката</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<div class="content">
+    <div class="container">
+        <div class="row">
+            <div class="col-8 py-4">
+                <div id="map"></div> <!-- Map container -->
+                <div class="tooltip" style="opacity: 0;"></div>
+            </div>
+            <div class="col-4 py-4">
+                <!-- Dropdown for selecting city -->
+                <div class="mb-4">
+                    <label for="city-select" class="form-label">Изберете општина</label>
+                    <select id="city-select" class="form-select">
+                        <option value="">Сите општини</option>
+                    </select>
+                </div>
+                <div class="mb-4">
+                    <label for="type-select" class="form-label">Изберете тип</label>
+                    <select id="type-select" class="form-select">
+                        <option value="">Сите типови</option>
+                    </select>
+                </div>
+
+                <!-- Card for displaying total number of clinics -->
+                <div class="card mb-4">
+                    <div class="card-body">
+                        <h5 class="card-title">Вкупен број на клиники</h5>
+                        <p class="card-text" id="clinic-count">0</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+<footer class="navbar navbar-dark bg-dark">
+    <div class="container">
+        <p class="mb-0">Изработено од Георгина Михаилова и Дарко Крстевски</p>
+    </div>
+</footer>
+
+<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script>
+    const map = L.map('map').setView([41.6082, 21.7453], 8);
+
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        maxZoom: 19,
+        attribution: '© OpenStreetMap'
+    }).addTo(map);
+
+    d3.json("http://localhost:3000/api/clinics").then(function(data) {
+        const clinics = [];
+        const citySet = new Set();
+        const typeSet = new Set();
+
+        data.forEach(item => {
+            const { id, name, location, type, latitude, longitude, address } = item;
+
+            if (latitude && longitude) {
+                clinics.push({ id, name, location, type, latitude, longitude, address });
+                citySet.add(location);
+                typeSet.add(type);
+            }
+        });
+
+        Array.from(citySet).sort().forEach(city => {
+            d3.select("#city-select")
+                .append("option")
+                .text(city)
+                .attr("value", city);
+        });
+
+        const allowedTypes = ["Амбуланта", "Болница", "Клиника"];
+        allowedTypes.forEach(type => {
+            d3.select("#type-select")
+                .append("option")
+                .text(type)
+                .attr("value", type);
+        });
+
+        const markers = L.layerGroup().addTo(map);
+
+        function updateMarkers(selectedCity, selectedType) {
+            markers.clearLayers();
+
+            let filtered = clinics;
+
+            if (selectedCity) {
+                filtered = filtered.filter(c => c.location === selectedCity);
+            }
+
+            if (selectedType) {
+                if (selectedType === "Амбуланта") {
+                    filtered = filtered.filter(c => c.type.includes("Амбуланта"));
+                } else {
+                    filtered = filtered.filter(c => c.type === selectedType);
+                }
+            }
+
+            filtered.forEach(clinic => {
+                const marker = L.marker([clinic.latitude, clinic.longitude]).addTo(markers);
+                marker.bindPopup(`<strong>${clinic.name}</strong><br>${clinic.address}`);
+            });
+
+            document.getElementById("clinic-count").textContent = filtered.length;
+        }
+
+        d3.select("#city-select").on("change", function() {
+            updateMarkers(
+                d3.select("#city-select").property("value"),
+                d3.select("#type-select").property("value")
+            );
+        });
+
+        d3.select("#type-select").on("change", function() {
+            updateMarkers(
+                d3.select("#city-select").property("value"),
+                d3.select("#type-select").property("value")
+            );
+        });
+
+        updateMarkers();
+    }).catch(function (error) {
+        console.error("Error loading clinics:", error);
+    });
+</script>
+</body>
+</html>

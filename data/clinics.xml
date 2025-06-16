@@ -1,0 +1,5541 @@
+<graph>
+<ambulance>
+<id>
+    1
+  </id>
+  <hasLocation>
+    Тетово
+  </hasLocation>
+  <hasDate>
+    15.06.1999
+  </hasDate>
+  <hasNameOfPlace>
+    с.Камењане
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ЕУРОВЕТ Муамет ДООЕЛ
+  </hasLegalEntity>
+  <hasAddress>
+    с.Камењане
+  </hasAddress>
+  <hasLongitude>
+    25.29583
+  </hasLongitude>
+  <hasLatitude>
+    41.53787
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+ </ambulance>
+<ambulance>
+<id>
+    2
+  </id>
+  <hasLocation>
+    Скопје
+  </hasLocation>
+  <hasDate>
+    12.07.1999
+  </hasDate>
+  <hasNameOfPlace>
+    ул. Лазар Поп Трајков 6-7
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Ветеринарна Болница Скопје
+  </hasLegalEntity>
+  <hasAddress>
+    ул. Лазар Поп Трајков 6-7
+  </hasAddress>
+  <hasLongitude>
+    21.465250890143068
+  </hasLongitude>
+  <hasLatitude>
+    42.00408259576306
+  </hasLatitude>
+  <hasType>
+    Станица
+  </hasType>
+</ambulance>
+<ambulance>
+<id>
+    3
+  </id>
+  <hasLocation>
+    Скопје
+  </hasLocation>
+  <hasDate>
+    12.07.1999
+  </hasDate>
+  <hasNameOfPlace>
+    ул. Јован Саздов бб Ѓорче Петров
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Ветеринарна Болница Скопје
+  </hasLegalEntity>
+  <hasAddress>
+    ул. Лазар Поп Трајков 6-7
+  </hasAddress>
+  <hasLongitude>
+    21.465250890143068
+  </hasLongitude>
+  <hasLatitude>
+    42.00408259576306
+  </hasLatitude>
+  <hasType>
+    Станица
+  </hasType>
+</ambulance>
+<ambulance>
+<id>
+    4
+  </id>
+  <hasLocation>
+    Велес
+  </hasLocation>
+  <hasDate>
+    12.07.1999
+  </hasDate>
+  <hasNameOfPlace>
+    ул. Раштански пат бб
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Ветеринарна Станица ДОО Велес
+  </hasLegalEntity>
+  <hasAddress>
+    ул. Раштански пат бб
+  </hasAddress>
+  <hasLongitude>
+    21.760968501932577
+  </hasLongitude>
+  <hasLatitude>
+    41.714858898127325
+  </hasLatitude>
+  <hasType>
+    Станица
+  </hasType>
+</ambulance>
+<ambulance>
+<id>
+    5
+  </id>
+  <hasLocation>
+    Неготино
+  </hasLocation>
+  <hasDate>
+    12.07.1999
+  </hasDate>
+  <hasNameOfPlace>
+    ул. Маршал Тито бр. 12
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ДПТУ Ветеринарна Станица ДООЕЛНеготино
+  </hasLegalEntity>
+  <hasAddress>
+    ул. Маршал Тито бр. 12
+  </hasAddress>
+  <hasLongitude>
+    20.664703990263323
+  </hasLongitude>
+  <hasLatitude>
+    41.17549618210264
+  </hasLatitude>
+  <hasType>
+    Станица
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    6
+  </id>
+  <hasLocation>
+    Пробиштип
+  </hasLocation>
+  <hasDate>
+    15.07.1999
+  </hasDate>
+  <hasNameOfPlace>
+    ул. Миро Барага бб
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ДОО Ветеринарна Станица Пробиштип
+  </hasLegalEntity>
+  <hasAddress>
+    ул. Миро Барага бб
+  </hasAddress>
+  <hasLongitude>
+    22.183031318997543
+  </hasLongitude>
+  <hasLatitude>
+    41.98882215520727
+  </hasLatitude>
+  <hasType>
+    Станица
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    7
+  </id>
+  <hasLocation>
+    Кратово
+  </hasLocation>
+  <hasDate>
+    15.07.1999
+  </hasDate>
+  <hasNameOfPlace>
+    ул.Кривопаланечки пат бб
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Ветеринарна станица ТЕХНОВЕТ ДОО
+  </hasLegalEntity>
+  <hasAddress>
+    ул.Кривопаланечки пат бб
+  </hasAddress>
+  <hasLongitude>
+    22.1781
+  </hasLongitude>
+  <hasLatitude>
+    42.0798
+  </hasLatitude>
+  <hasType>
+    Станица
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    8
+  </id>
+  <hasLocation>
+    Виница
+  </hasLocation>
+  <hasDate>
+    15.07.1999
+  </hasDate>
+  <hasNameOfPlace>
+    ул. Илинденска 96
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Ветеринарна Станица ДООЕЛ Виница
+  </hasLegalEntity>
+  <hasAddress>
+    ул. Илинденска 96
+  </hasAddress>
+  <hasLongitude>
+    21.12992
+  </hasLongitude>
+  <hasLatitude>
+    45.228468
+  </hasLatitude>
+  <hasType>
+    Станица
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    9
+  </id>
+  <hasLocation>
+    Берово
+  </hasLocation>
+  <hasDate>
+    15.07.1999
+  </hasDate>
+  <hasNameOfPlace>
+    ул. Задарска 60
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ДОО Ветеринарна Станица Бе -Вет
+  </hasLegalEntity>
+  <hasAddress>
+    ул. Задарска 60
+  </hasAddress>
+  <hasLongitude>
+    15.948627517187502
+  </hasLongitude>
+  <hasLatitude>
+    45.7937168
+  </hasLatitude>
+  <hasType>
+    Станица
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    10
+  </id>
+  <hasLocation>
+    Делчево
+  </hasLocation>
+  <hasDate>
+    16.09.1999
+  </hasDate>
+  <hasNameOfPlace>
+    ул. Маршал Тито бр. 3
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ДООВетеринарна Станица ЗДРАВЈЕ Делчево
+  </hasLegalEntity>
+  <hasAddress>
+    ул. Маршал Тито бр. 3
+  </hasAddress>
+  <hasLongitude>
+    20.664703990263323
+  </hasLongitude>
+  <hasLatitude>
+    41.17549618210264
+  </hasLatitude>
+  <hasType>
+    Станица
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    11
+  </id>
+  <hasLocation>
+    Тетово
+  </hasLocation>
+  <hasDate>
+    15.07.1999
+  </hasDate>
+  <hasNameOfPlace>
+    ул. 29 Ноември бб
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Ветеринарна Станица Тетово
+  </hasLegalEntity>
+  <hasAddress>
+    ул. 29 Ноември бб
+  </hasAddress>
+  <hasLongitude>
+    21.554397596344664
+  </hasLongitude>
+  <hasLatitude>
+    41.34575361273471
+  </hasLatitude>
+  <hasType>
+    Станица
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    12
+  </id>
+  <hasLocation>
+    Куманово
+  </hasLocation>
+  <hasDate>
+    20.07.1999
+  </hasDate>
+  <hasNameOfPlace>
+    ул. Доне Божинов бб
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ВСЦ Тодор Велков Куманово
+  </hasLegalEntity>
+  <hasAddress>
+    ул. Доне Божинов бб
+  </hasAddress>
+  <hasLongitude>
+    21.71896039133512
+  </hasLongitude>
+  <hasLatitude>
+    42.138926408993946
+  </hasLatitude>
+  <hasType>
+    Станица
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    13
+  </id>
+  <hasLocation>
+    Свети Николе
+  </hasLocation>
+  <hasDate>
+    20.07.1999
+  </hasDate>
+  <hasNameOfPlace>
+    ул. Велко Влаховиќ бр. 182
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Ветеринарна Станица ДОО Свети Николе
+  </hasLegalEntity>
+  <hasAddress>
+    ул. Велко Влаховиќ бр. 182
+  </hasAddress>
+  <hasLongitude>
+    22.720840696769827
+  </hasLongitude>
+  <hasLatitude>
+    41.18458060187193
+  </hasLatitude>
+  <hasType>
+    Станица
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    14
+  </id>
+  <hasLocation>
+    Гостивар
+  </hasLocation>
+  <hasDate>
+    03.09.1999
+  </hasDate>
+  <hasNameOfPlace>
+    ул.брака Гиновски бб
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ТПУПТруст ВетДООЕЛ
+  </hasLegalEntity>
+  <hasAddress>
+    ул.ЈНА бр. 254
+  </hasAddress>
+  <hasLongitude>
+    53.321906738447765
+  </hasLongitude>
+  <hasLatitude>
+    24.10333543856844
+  </hasLatitude>
+  <hasType>
+    Станица
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    15
+  </id>
+  <hasLocation>
+    Струга
+  </hasLocation>
+  <hasDate>
+    06.09.1999
+  </hasDate>
+  <hasNameOfPlace>
+    Индустриска  бб
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Струга Вет Владимир и др.ДОО
+  </hasLegalEntity>
+  <hasAddress>
+    Индустриска бб
+  </hasAddress>
+  <hasLongitude>
+    21.47194853234229
+  </hasLongitude>
+  <hasLatitude>
+    41.994268906493
+  </hasLatitude>
+  <hasType>
+    Станица
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    16
+  </id>
+  <hasLocation>
+    Крива Паланка
+  </hasLocation>
+  <hasDate>
+    15.09.1999
+  </hasDate>
+  <hasNameOfPlace>
+    ул. Св.Јоаким Осоговски бр. 61
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Ветеринарна СтаницаДОО Крива Паланка
+  </hasLegalEntity>
+  <hasAddress>
+    ул. Св.Јоаким Осоговски бр. 61
+  </hasAddress>
+  <hasLongitude>
+    22.3545
+  </hasLongitude>
+  <hasLatitude>
+    42.006
+  </hasLatitude>
+  <hasType>
+    Станица
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    17
+  </id>
+  <hasLocation>
+    Дебар
+  </hasLocation>
+  <hasDate>
+    28.09.1999
+  </hasDate>
+  <hasNameOfPlace>
+    ул. Алија Зенговски 2
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Ветеринарна Станица МедикаДООЕЛ Дебар
+  </hasLegalEntity>
+  <hasAddress>
+    ул. Алија Зенговски 2
+  </hasAddress>
+  <hasLongitude>
+    20.591
+  </hasLongitude>
+  <hasLatitude>
+    41.2081
+  </hasLatitude>
+  <hasType>
+    Станица
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    18
+  </id>
+  <hasLocation>
+    Битола
+  </hasLocation>
+  <hasDate>
+    26.10.1999
+  </hasDate>
+  <hasNameOfPlace>
+     с.Цапари
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Димовски Анима Вет, Цапари ДООЕЛ
+  </hasLegalEntity>
+  <hasAddress>
+    ул. Север-Југ 2/47
+  </hasAddress>
+  <hasLongitude>
+    19.815899
+  </hasLongitude>
+  <hasLatitude>
+    45.2777612
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    19
+  </id>
+  <hasLocation>
+    Скопје
+  </hasLocation>
+  <hasDate>
+    27.01.2000
+  </hasDate>
+  <hasNameOfPlace>
+    ул. Ѓорги Абаџиев 12
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Пет ВетЖивко и Жарко 
+  </hasLegalEntity>
+  <hasAddress>
+    ул. Ѓорги Абаџиев 12
+  </hasAddress>
+  <hasLongitude>
+    21.41747975
+  </hasLongitude>
+  <hasLatitude>
+    41.98957355
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    20
+  </id>
+  <hasLocation>
+    Битола
+  </hasLocation>
+  <hasDate>
+    17.04.2000
+  </hasDate>
+  <hasNameOfPlace>
+    Булевар 1 мај 177
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Фармалек Трајкова,ДООЕЛ
+  </hasLegalEntity>
+  <hasAddress>
+    ул.ЈНА бр.22-14
+  </hasAddress>
+  <hasLongitude>
+    22.66922575707089
+  </hasLongitude>
+  <hasLatitude>
+    44.261675015314005
+  </hasLatitude>
+  <hasType>
+    Амбуланта за Д.М. 
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    21
+  </id>
+  <hasLocation>
+    Охрид
+  </hasLocation>
+  <hasDate>
+    17.04.2000
+  </hasDate>
+  <hasNameOfPlace>
+    ул.Дејан Војвода бр.5
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Спироски Оливер Вет Медика ДООЕЛ
+  </hasLegalEntity>
+  <hasAddress>
+    ул. Илинденска 42
+  </hasAddress>
+  <hasLongitude>
+    21.90594575
+  </hasLongitude>
+  <hasLatitude>
+    43.3356353
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    22
+  </id>
+  <hasLocation>
+    Куманово
+  </hasLocation>
+  <hasDate>
+    19.11.1999
+  </hasDate>
+  <hasNameOfPlace>
+    с. Младо Нагоричане
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ВСЦ Тодор Велков Куманово
+  </hasLegalEntity>
+  <hasAddress>
+    ул. Доне Божинов бб
+  </hasAddress>
+  <hasLongitude>
+    21.71896039133512
+  </hasLongitude>
+  <hasLatitude>
+    42.138926408993946
+  </hasLatitude>
+  <hasType>
+    Станица
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    23
+  </id>
+  <hasLocation>
+    Прилеп
+  </hasLocation>
+  <hasDate>
+    05.06.2000
+  </hasDate>
+  <hasNameOfPlace>
+    с.Тополчани
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ДР.Москов
+  </hasLegalEntity>
+  <hasAddress>
+    ул.Ладо Лапецот
+  </hasAddress>
+  <hasLongitude>
+    21.540988271261657
+  </hasLongitude>
+  <hasLatitude>
+    41.34781253880684
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    24
+  </id>
+  <hasLocation>
+    Прилеп
+  </hasLocation>
+  <hasDate>
+    05.06.2000
+  </hasDate>
+  <hasNameOfPlace>
+    с. Мало Коњари
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Медика Вет ДОО
+  </hasLegalEntity>
+  <hasAddress>
+    с. Мало Коњари
+  </hasAddress>
+  <hasLongitude>
+    21.4637928
+  </hasLongitude>
+  <hasLatitude>
+    41.3350785
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    25
+  </id>
+  <hasLocation>
+    Скопје
+  </hasLocation>
+  <hasDate>
+    09.06.2000
+  </hasDate>
+  <hasNameOfPlace>
+    с. Петровец
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Про Инфовет Игор ДООЕЛ
+  </hasLegalEntity>
+  <hasAddress>
+    ул.Врполе 9Б
+  </hasAddress>
+  <hasLongitude>
+    21.469723053354027
+  </hasLongitude>
+  <hasLatitude>
+    41.973808129298895
+  </hasLatitude>
+  <hasType>
+    Станица
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    26
+  </id>
+  <hasLocation>
+    Радовиш
+  </hasLocation>
+  <hasDate>
+    22.08.2000
+  </hasDate>
+  <hasNameOfPlace>
+    ул. Благој Туфанов бр. 31
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Ники Вет ДООЕЛ
+  </hasLegalEntity>
+  <hasAddress>
+    ул. Благој Туфанов бр. 31
+  </hasAddress>
+  <hasLongitude>
+    22.218
+  </hasLongitude>
+  <hasLatitude>
+    41.445
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    27
+  </id>
+  <hasLocation>
+    Охрид
+  </hasLocation>
+  <hasDate>
+    20.11.2000
+  </hasDate>
+  <hasNameOfPlace>
+    с. Лескоец
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Меди Вет
+  </hasLegalEntity>
+  <hasAddress>
+    с. Лескоец
+  </hasAddress>
+  <hasLongitude>
+    20.8764289
+  </hasLongitude>
+  <hasLatitude>
+    40.9575247
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    28
+  </id>
+  <hasLocation>
+    Скопје
+  </hasLocation>
+  <hasDate>
+    26.12.2000
+  </hasDate>
+  <hasNameOfPlace>
+    Рузвелтова бр.41
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Легони Вет ДООЕЛ
+  </hasLegalEntity>
+  <hasAddress>
+    Лука Ѓеров 40/2-3
+  </hasAddress>
+  <hasLongitude>
+    21.354486418562143
+  </hasLongitude>
+  <hasLatitude>
+    42.01878113645186
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    29
+  </id>
+  <hasLocation>
+    Прилеп
+  </hasLocation>
+  <hasDate>
+    21.05.2001
+  </hasDate>
+  <hasNameOfPlace>
+    с. Ропотово
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Прима Вет 
+  </hasLegalEntity>
+  <hasAddress>
+    с. Ропотово
+  </hasAddress>
+  <hasLongitude>
+    41.041771
+  </hasLongitude>
+  <hasLatitude>
+    59.32674
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    30
+  </id>
+  <hasLocation>
+    Скопје
+  </hasLocation>
+  <hasDate>
+    23.07.2001
+  </hasDate>
+  <hasNameOfPlace>
+    ул. Црвена Вода бр.18
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Зоовет-Центар Захарие ДООЕЛ
+  </hasLegalEntity>
+  <hasAddress>
+    ул. Црвена Вода бр.18
+  </hasAddress>
+  <hasLongitude>
+    20.7676509
+  </hasLongitude>
+  <hasLatitude>
+    41.3206341
+  </hasLatitude>
+  <hasType>
+    Амбуланта за Д.М. 
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    31
+  </id>
+  <hasLocation>
+    Кавадарци
+  </hasLocation>
+  <hasDate>
+    05.11.2001
+  </hasDate>
+  <hasNameOfPlace>
+    ул. Страшо Пинџур 32
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Медика Вет Р
+  </hasLegalEntity>
+  <hasAddress>
+    ул. Страшо Пинџур 32
+  </hasAddress>
+  <hasLongitude>
+    22.1979113
+  </hasLongitude>
+  <hasLatitude>
+    41.7371003
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    32
+  </id>
+  <hasLocation>
+    Струмица
+  </hasLocation>
+  <hasDate>
+    25.03.2002
+  </hasDate>
+  <hasNameOfPlace>
+    с. Мокриево
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ДТПУ ВЕТЕРИНА ЦЕНТАР ДООЕЛ
+  </hasLegalEntity>
+  <hasAddress>
+    ул.Јанко Цветинов бр,50/1-3
+  </hasAddress>
+  <hasLongitude>
+    22.6455
+  </hasLongitude>
+  <hasLatitude>
+    41.429
+  </hasLatitude>
+  <hasType>
+    Станица
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    33
+  </id>
+  <hasLocation>
+    Кичево
+  </hasLocation>
+  <hasDate>
+    21.05.2002
+  </hasDate>
+  <hasNameOfPlace>
+    ул.Гоце Делчев Календарница 2 локал 1/4/2
+  </hasNameOfPlace>
+  <hasLegalEntity>
+     ДООДренуша Вет
+  </hasLegalEntity>
+  <hasAddress>
+    ул. Буковиќ бр. 17
+  </hasAddress>
+  <hasLongitude>
+    20.5177402
+  </hasLongitude>
+  <hasLatitude>
+    44.3296811
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    34
+  </id>
+  <hasLocation>
+    Виница
+  </hasLocation>
+  <hasDate>
+    23.09.2002
+  </hasDate>
+  <hasNameOfPlace>
+    с. Драгобраште
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Вива Вет Гоце ДООЕЛ
+  </hasLegalEntity>
+  <hasAddress>
+    с. Драгобраште
+  </hasAddress>
+  <hasLongitude>
+    22.6032611
+  </hasLongitude>
+  <hasLatitude>
+    41.8954144
+  </hasLatitude>
+  <hasType>
+    Амбуланта 
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    35
+  </id>
+  <hasLocation>
+    Радовиш
+  </hasLocation>
+  <hasDate>
+    20.06.2003
+  </hasDate>
+  <hasNameOfPlace>
+    ул. Долна Рудина бб
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Ветеринарна Станица Медика Вет ДОО
+  </hasLegalEntity>
+  <hasAddress>
+    ул. Долна Рудина бб
+  </hasAddress>
+  <hasLongitude>
+    22.2205
+  </hasLongitude>
+  <hasLatitude>
+    41.4475
+  </hasLatitude>
+  <hasType>
+    Станица
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    36
+  </id>
+  <hasLocation>
+    Гевгелија
+  </hasLocation>
+  <hasDate>
+    20.06.2003
+  </hasDate>
+  <hasNameOfPlace>
+    ул. 7 Ноемврибб
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ДПТВУ Проданов Ѓорѓи,доел
+  </hasLegalEntity>
+  <hasAddress>
+    ул. 7 Ноемврибб
+  </hasAddress>
+  <hasLongitude>
+    22.5
+  </hasLongitude>
+  <hasLatitude>
+    41.145
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    37
+  </id>
+  <hasLocation>
+    Крушево
+  </hasLocation>
+  <hasDate>
+    10.07.2003
+  </hasDate>
+  <hasNameOfPlace>
+    ул. Тодор Проески 35
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Д-р Тасески ДООЕЛ
+  </hasLegalEntity>
+  <hasAddress>
+    ул.Илинденска бр.109
+  </hasAddress>
+  <hasLongitude>
+    27.44254624146417
+  </hasLongitude>
+  <hasLatitude>
+    42.47457435699551
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    38
+  </id>
+  <hasLocation>
+    Струга
+  </hasLocation>
+  <hasDate>
+    17.10.2003
+  </hasDate>
+  <hasNameOfPlace>
+    ул. Пабло Неруда 18
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Кавај -вет ДООЕЛ
+  </hasLegalEntity>
+  <hasAddress>
+    ул. Пабло Неруда 18
+  </hasAddress>
+  <hasLongitude>
+    -3.6429741
+  </hasLongitude>
+  <hasLatitude>
+    40.3911131
+  </hasLatitude>
+  <hasType>
+    Амбуланта за Д.М. 
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    39
+  </id>
+  <hasLocation>
+    Штип
+  </hasLocation>
+  <hasDate>
+    31.03.2004
+  </hasDate>
+  <hasNameOfPlace>
+    ул. Солидарност 96
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ДТП Романа Вет ДООЕЛ
+  </hasLegalEntity>
+  <hasAddress>
+    ул. Солидарност 96
+  </hasAddress>
+  <hasLongitude>
+    38.588409
+  </hasLongitude>
+  <hasLatitude>
+    52.597187
+  </hasLatitude>
+  <hasType>
+    Станица
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    40
+  </id>
+  <hasLocation>
+    Прилеп
+  </hasLocation>
+  <hasDate>
+    12.05.2011
+  </hasDate>
+  <hasNameOfPlace>
+    ул. Моша Пијаде бб
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ДООЕЛ вет.амбулантаДамески Ветерина
+  </hasLegalEntity>
+  <hasAddress>
+    ул. Моша Пијаде бб
+  </hasAddress>
+  <hasLongitude>
+    21.33623826659433
+  </hasLongitude>
+  <hasLatitude>
+    41.03242465221065
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    41
+  </id>
+  <hasLocation>
+    Кичево
+  </hasLocation>
+  <hasDate>
+    23.04.2004
+  </hasDate>
+  <hasNameOfPlace>
+    ул. Јанко Михајловски 7
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Ветеринарна Станица Центар Кичево
+  </hasLegalEntity>
+  <hasAddress>
+    ул. Јанко Михајловски 7
+  </hasAddress>
+  <hasLongitude>
+    20.985
+  </hasLongitude>
+  <hasLatitude>
+    41.5075
+  </hasLatitude>
+  <hasType>
+    Станица
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    42
+  </id>
+  <hasLocation>
+    Тетово
+  </hasLocation>
+  <hasDate>
+    10.06.2004
+  </hasDate>
+  <hasNameOfPlace>
+    с. Желино
+  </hasNameOfPlace>
+  <hasLegalEntity>
+     Праксис Зуфер ДООЕЛ експорт-импорт с. Желино
+  </hasLegalEntity>
+  <hasAddress>
+    с. Желино
+  </hasAddress>
+  <hasLongitude>
+    21.0619745
+  </hasLongitude>
+  <hasLatitude>
+    41.9815581
+  </hasLatitude>
+  <hasType>
+    Станица
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    43
+  </id>
+  <hasLocation>
+    Куманово
+  </hasLocation>
+  <hasDate>
+    14.09.2004
+  </hasDate>
+  <hasNameOfPlace>
+    с. Младо Нагоричане
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ДВДТУ СТИВ-ВЕТ ДОО с. Младо Нагоричане
+  </hasLegalEntity>
+  <hasAddress>
+    с. Младо Нагоричане оп.С.Нагоричане
+  </hasAddress>
+  <hasLongitude>
+    21.721
+  </hasLongitude>
+  <hasLatitude>
+    42.1335
+  </hasLatitude>
+  <hasType>
+    Станица
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    44
+  </id>
+  <hasLocation>
+    Охрид
+  </hasLocation>
+  <hasDate>
+    21.12.2004
+  </hasDate>
+  <hasNameOfPlace>
+    Струга ,с. Враниште
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Спироски Оливер Вет Медика ДООЕЛ
+  </hasLegalEntity>
+  <hasAddress>
+    ул. Илинденска 42
+  </hasAddress>
+  <hasLongitude>
+    21.90594575
+  </hasLongitude>
+  <hasLatitude>
+    43.3356353
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    45
+  </id>
+  <hasLocation>
+    Штип
+  </hasLocation>
+  <hasDate>
+    22.10.2004
+  </hasDate>
+  <hasNameOfPlace>
+    с. Крупиште
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Ветеринарна Станица ДООЕЛ  Штип
+  </hasLegalEntity>
+  <hasAddress>
+    с. Крупиште
+  </hasAddress>
+  <hasLongitude>
+    22.2505254
+  </hasLongitude>
+  <hasLatitude>
+    41.8421706
+  </hasLatitude>
+  <hasType>
+    Станица
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    46
+  </id>
+  <hasLocation>
+    Струга
+  </hasLocation>
+  <hasDate>
+    22.06.2005
+  </hasDate>
+  <hasNameOfPlace>
+    с.Франгово
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Ад Лумани ДООЕЛ
+  </hasLegalEntity>
+  <hasAddress>
+    с.Франгово
+  </hasAddress>
+  <hasLongitude>
+    20.6251937
+  </hasLongitude>
+  <hasLatitude>
+    41.144957
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    47
+  </id>
+  <hasLocation>
+    Крушево
+  </hasLocation>
+  <hasDate>
+    01.02.2006
+  </hasDate>
+  <hasNameOfPlace>
+    с. Бучин
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Јан Вет ДООЕЛКрушево
+  </hasLegalEntity>
+  <hasAddress>
+    ул.Мише Ефтим бр.17
+  </hasAddress>
+  <hasLongitude>
+    21.247237367597485
+  </hasLongitude>
+  <hasLatitude>
+    41.3692005149598
+  </hasLatitude>
+  <hasType>
+    Станица
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    48
+  </id>
+  <hasLocation>
+    Делчево
+  </hasLocation>
+  <hasDate>
+    20.01.2006
+  </hasDate>
+  <hasNameOfPlace>
+    ул. 8 Септември бб
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Ветеринарна Станица Дел Вет ДООЕЛ
+  </hasLegalEntity>
+  <hasAddress>
+    ул. 8 Септември бб
+  </hasAddress>
+  <hasLongitude>
+    20.531796045682857
+  </hasLongitude>
+  <hasLatitude>
+    41.51654961532012
+  </hasLatitude>
+  <hasType>
+    Станица
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    49
+  </id>
+  <hasLocation>
+    Скопје
+  </hasLocation>
+  <hasDate>
+    17.04.2006
+  </hasDate>
+  <hasNameOfPlace>
+    с. Драчево
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Ветеринарна Болница Скопје
+  </hasLegalEntity>
+  <hasAddress>
+    ул. Лазар Поп Трајков 6-7
+  </hasAddress>
+  <hasLongitude>
+    21.465250890143068
+  </hasLongitude>
+  <hasLatitude>
+    42.00408259576306
+  </hasLatitude>
+  <hasType>
+    Станица
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    50
+  </id>
+  <hasLocation>
+    Скопје
+  </hasLocation>
+  <hasDate>
+    17.04.2006
+  </hasDate>
+  <hasNameOfPlace>
+    с. Сопиште
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Ветеринарна Болница Скопје
+  </hasLegalEntity>
+  <hasAddress>
+    ул. Лазар Поп Трајков 6-7
+  </hasAddress>
+  <hasLongitude>
+    21.465250890143068
+  </hasLongitude>
+  <hasLatitude>
+    42.00408259576306
+  </hasLatitude>
+  <hasType>
+    Станица
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    51
+  </id>
+  <hasLocation>
+    Скопје
+  </hasLocation>
+  <hasDate>
+    17.04.2006
+  </hasDate>
+  <hasNameOfPlace>
+    с. Мирковци
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Ветеринарна Болница Скопје
+  </hasLegalEntity>
+  <hasAddress>
+    ул. Лазар Поп Трајков 6-7
+  </hasAddress>
+  <hasLongitude>
+    21.465250890143068
+  </hasLongitude>
+  <hasLatitude>
+    42.00408259576306
+  </hasLatitude>
+  <hasType>
+    Станица
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    52
+  </id>
+  <hasLocation>
+    Гевгелија
+  </hasLocation>
+  <hasDate>
+    22.06.2006
+  </hasDate>
+  <hasNameOfPlace>
+    ул. 7 Ноември бр. 75
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ДПТУ Прима дел вет,доо
+  </hasLegalEntity>
+  <hasAddress>
+    ул. 7 Ноември бр. 75
+  </hasAddress>
+  <hasLongitude>
+    22.5025
+  </hasLongitude>
+  <hasLatitude>
+    41.1475
+  </hasLatitude>
+  <hasType>
+    Станица
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    53
+  </id>
+  <hasLocation>
+    Куманово
+  </hasLocation>
+  <hasDate>
+    14.02.2007
+  </hasDate>
+  <hasNameOfPlace>
+    с. Матејче
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ВСЦ Тодор Велков Куманово
+  </hasLegalEntity>
+  <hasAddress>
+    ул. Доне Божинов бб
+  </hasAddress>
+  <hasLongitude>
+    21.71896039133512
+  </hasLongitude>
+  <hasLatitude>
+    42.138926408993946
+  </hasLatitude>
+  <hasType>
+    Станица
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    54
+  </id>
+  <hasLocation>
+    Прилеп
+  </hasLocation>
+  <hasDate>
+    21.02.2007
+  </hasDate>
+  <hasNameOfPlace>
+    Ул. Стеван Димески Ништакот 11А
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Ветеринарна СтаницаДООЕЛ Др. Лашкоски
+  </hasLegalEntity>
+  <hasAddress>
+    Ул. Стеван Димески Ништакот 11А
+  </hasAddress>
+  <hasLongitude>
+    21.566
+  </hasLongitude>
+  <hasLatitude>
+    41.3445
+  </hasLatitude>
+  <hasType>
+    Амбуланта за Д.М. 
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    55
+  </id>
+  <hasLocation>
+    Струмица
+  </hasLocation>
+  <hasDate>
+    06.03.2007
+  </hasDate>
+  <hasNameOfPlace>
+    с. Турново
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ДИ ВЕТЕРИНАДООЕЛ с. Турново
+  </hasLegalEntity>
+  <hasAddress>
+    с. Турново
+  </hasAddress>
+  <hasLongitude>
+    56.492596
+  </hasLongitude>
+  <hasLatitude>
+    55.702232
+  </hasLatitude>
+  <hasType>
+    Станица
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    56
+  </id>
+  <hasLocation>
+    Кочани
+  </hasLocation>
+  <hasDate>
+    02.05.2007
+  </hasDate>
+  <hasNameOfPlace>
+    ул.Јоаким Крчовски бб: с. Облешево
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Ветеринарна Станица Здравје ДОО Кочани
+  </hasLegalEntity>
+  <hasAddress>
+    ул. Лазар Андонов бр.1
+  </hasAddress>
+  <hasLongitude>
+    22.407498297735525
+  </hasLongitude>
+  <hasLatitude>
+    41.90930333898128
+  </hasLatitude>
+  <hasType>
+    Станица
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    57
+  </id>
+  <hasLocation>
+    Скопје
+  </hasLocation>
+  <hasDate>
+    05.05.2008
+  </hasDate>
+  <hasNameOfPlace>
+    ул.Шумадиска бр.6 лок.2 оп.Центар
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Д-р Глигоровски и Д-р Мрежаноска ДОО
+  </hasLegalEntity>
+  <hasAddress>
+    ул.Шумадиска бр.6 лок.2 оп.Центар
+  </hasAddress>
+  <hasLongitude>
+    21.422
+  </hasLongitude>
+  <hasLatitude>
+    41.993
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    58
+  </id>
+  <hasLocation>
+    Скопје
+  </hasLocation>
+  <hasDate>
+    19.06.2008
+  </hasDate>
+  <hasNameOfPlace>
+    ул. Пекљане 1/28 новоселски Пат
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Вет Медика БиГ ДОО
+  </hasLegalEntity>
+  <hasAddress>
+    ул. Пекљане 1/28
+  </hasAddress>
+  <hasLongitude>
+    21.35683133694693
+  </hasLongitude>
+  <hasLatitude>
+    42.02115406689267
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    59
+  </id>
+  <hasLocation>
+    Тетово
+  </hasLocation>
+  <hasDate>
+    27.01.2009
+  </hasDate>
+  <hasNameOfPlace>
+    с.Жилче
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Ветеринарна амбуланта Жилче ДООЕЛ
+  </hasLegalEntity>
+  <hasAddress>
+    с.Жилче опш Јегуновце
+  </hasAddress>
+  <hasLongitude>
+    20.9731
+  </hasLongitude>
+  <hasLatitude>
+    42.0054
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    60
+  </id>
+  <hasLocation>
+    Битола
+  </hasLocation>
+  <hasDate>
+    27.01.2009
+  </hasDate>
+  <hasNameOfPlace>
+    ул.генерал Васко Карангелески бб,к1л4локал62
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Анима Вет ДООЕЛ Цапари
+  </hasLegalEntity>
+  <hasAddress>
+    ул. 1 с.Цапари
+  </hasAddress>
+  <hasLongitude>
+    21.1786866
+  </hasLongitude>
+  <hasLatitude>
+    41.0563479
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    61
+  </id>
+  <hasLocation>
+    Битола
+  </hasLocation>
+  <hasDate>
+    06.02.2009
+  </hasDate>
+  <hasNameOfPlace>
+    м.в. Врчва с. Крклино
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Пела вет ДООЕЛ
+  </hasLegalEntity>
+  <hasAddress>
+    м.в. Врчва с. Крклино
+  </hasAddress>
+  <hasLongitude>
+    21.343123
+  </hasLongitude>
+  <hasLatitude>
+    41.035852
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    62
+  </id>
+  <hasLocation>
+    Скопје
+  </hasLocation>
+  <hasDate>
+    03.09.2009
+  </hasDate>
+  <hasNameOfPlace>
+    ул.Дамаска 8Б, Карпош
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Анимал Медика ДООЕЛ
+  </hasLegalEntity>
+  <hasAddress>
+    ул.Дамаска 8Б
+  </hasAddress>
+  <hasLongitude>
+    34.341541
+  </hasLongitude>
+  <hasLatitude>
+    49.98951
+  </hasLatitude>
+  <hasType>
+    Амбуланта за Д.М. 
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    63
+  </id>
+  <hasLocation>
+    Демир Капија
+  </hasLocation>
+  <hasDate>
+    29.10.2009
+  </hasDate>
+  <hasNameOfPlace>
+    ул. Јане Сандански бб. Демир К.
+  </hasNameOfPlace>
+  <hasLegalEntity>
+     ДПТУ СТО-ВЕТ ДООЕЛ
+  </hasLegalEntity>
+  <hasAddress>
+    ул. Јане Сандански бб. Демир К.
+  </hasAddress>
+  <hasLongitude>
+    22.259
+  </hasLongitude>
+  <hasLatitude>
+    41.483
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    64
+  </id>
+  <hasLocation>
+    Скопје
+  </hasLocation>
+  <hasDate>
+    29.10.2009
+  </hasDate>
+  <hasNameOfPlace>
+    ул.29 Ноември бр.71
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Малинка Вет ДОО увоз-извоз
+  </hasLegalEntity>
+  <hasAddress>
+    ул.Ван Гог бр.207
+  </hasAddress>
+  <hasLongitude>
+    23.318947470902845
+  </hasLongitude>
+  <hasLatitude>
+    42.6563452213767
+  </hasLatitude>
+  <hasType>
+    Амбуланта за Д.М. 
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    65
+  </id>
+  <hasLocation>
+    Пробиштип
+  </hasLocation>
+  <hasDate>
+    11.1.2010
+  </hasDate>
+  <hasNameOfPlace>
+    ул.Никола Карев бр.15
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ДТВ Вет Медика Анимал ДОО
+  </hasLegalEntity>
+  <hasAddress>
+    ул.8ми Септември бр.5-4-11
+  </hasAddress>
+  <hasLongitude>
+    22.1831
+  </hasLongitude>
+  <hasLatitude>
+    41.9965
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    66
+  </id>
+  <hasLocation>
+    Брвеница
+  </hasLocation>
+  <hasDate>
+    05.01.2010
+  </hasDate>
+  <hasNameOfPlace>
+    с.Челопек
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ЗЗ Единство Челопек
+  </hasLegalEntity>
+  <hasAddress>
+    с.Челопек
+  </hasAddress>
+  <hasLongitude>
+    21.44623262320673
+  </hasLongitude>
+  <hasLatitude>
+    42.00269871477203
+  </hasLatitude>
+  <hasType>
+    В.С.О
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    67
+  </id>
+  <hasLocation>
+    Богданци
+  </hasLocation>
+  <hasDate>
+    12.01.2010
+  </hasDate>
+  <hasNameOfPlace>
+    ул.Маршал Тито бб. Краварска фарма
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ЗТД Сточарство ДОО
+  </hasLegalEntity>
+  <hasAddress>
+    ул.Маршал Тито бб.
+  </hasAddress>
+  <hasLongitude>
+    20.674408315256716
+  </hasLongitude>
+  <hasLatitude>
+    41.1772346
+  </hasLatitude>
+  <hasType>
+    В.С.О
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    68
+  </id>
+  <hasLocation>
+    Гостивар
+  </hasLocation>
+  <hasDate>
+    13.01.2010
+  </hasDate>
+  <hasNameOfPlace>
+    с.Градец,101бб
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ВЕТ Градец ДОО експорт-импорт градец
+  </hasLegalEntity>
+  <hasAddress>
+    с.Градец,101бб
+  </hasAddress>
+  <hasLongitude>
+    20.9155
+  </hasLongitude>
+  <hasLatitude>
+    41.6125
+  </hasLatitude>
+  <hasType>
+    Клиника
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    69
+  </id>
+  <hasLocation>
+    Струмица
+  </hasLocation>
+  <hasDate>
+    13.01.2010
+  </hasDate>
+  <hasNameOfPlace>
+    с.Дабиље број358
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ДПТУ Ветерина - Нова ДООЕЛ
+  </hasLegalEntity>
+  <hasAddress>
+    с.Дабиље број358
+  </hasAddress>
+  <hasLongitude>
+    22.6201
+  </hasLongitude>
+  <hasLatitude>
+    41.4308
+  </hasLatitude>
+  <hasType>
+    Клиника
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    70
+  </id>
+  <hasLocation>
+    Скопје
+  </hasLocation>
+  <hasDate>
+    29.01.2010
+  </hasDate>
+  <hasNameOfPlace>
+    с.Подбрѓе,ул.101 бб.
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Вет Медика ЗиА ДОО
+  </hasLegalEntity>
+  <hasAddress>
+    с.Подбреѓе , Јегуновце
+  </hasAddress>
+  <hasLongitude>
+    21.1211218
+  </hasLongitude>
+  <hasLatitude>
+    42.0632269
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    71
+  </id>
+  <hasLocation>
+    Тетово
+  </hasLocation>
+  <hasDate>
+    16.2.2010
+  </hasDate>
+  <hasNameOfPlace>
+    с.Брвеница
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Ветеринар ДК ДООЕЛ увоз-извоз
+  </hasLegalEntity>
+  <hasAddress>
+    Маршал ТИТО бр.124/9
+  </hasAddress>
+  <hasLongitude>
+    20.9799
+  </hasLongitude>
+  <hasLatitude>
+    42.001
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    72
+  </id>
+  <hasLocation>
+    Штип
+  </hasLocation>
+  <hasDate>
+    12.3.2010
+  </hasDate>
+  <hasNameOfPlace>
+    ул.Борис Крајгер бб.
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Гоче и Џоле ДОО
+  </hasLegalEntity>
+  <hasAddress>
+    ул.Борис Крајгер бб.
+  </hasAddress>
+  <hasLongitude>
+    22.195606989085395
+  </hasLongitude>
+  <hasLatitude>
+    41.752008830903776
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    73
+  </id>
+  <hasLocation>
+    Битола
+  </hasLocation>
+  <hasDate>
+    14.09.2010
+  </hasDate>
+  <hasNameOfPlace>
+    ул.1 ви Мај бр.243
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    бар вет ДООЕЛ
+  </hasLegalEntity>
+  <hasAddress>
+    ул.1 ви Мај бр.243
+  </hasAddress>
+  <hasLongitude>
+    27.700082643126866
+  </hasLongitude>
+  <hasLatitude>
+    42.748016581551205
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    74
+  </id>
+  <hasLocation>
+    Скопје
+  </hasLocation>
+  <hasDate>
+    21.10.2010
+  </hasDate>
+  <hasNameOfPlace>
+    ул.1, бр.57, Сопиште
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Раде турбо Дооел
+  </hasLegalEntity>
+  <hasAddress>
+    ул.Сава Ковачевиќ бр.29
+  </hasAddress>
+  <hasLongitude>
+    21.458220145488607
+  </hasLongitude>
+  <hasLatitude>
+    41.97139432725127
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    75
+  </id>
+  <hasLocation>
+    Скопје
+  </hasLocation>
+  <hasDate>
+    21.10.2010
+  </hasDate>
+  <hasNameOfPlace>
+    бул.Илинден бр.88
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ЈУ Зоолошка Градина на град Скопје
+  </hasLegalEntity>
+  <hasAddress>
+    бул.Илинден бр.88
+  </hasAddress>
+  <hasLongitude>
+    21.424
+  </hasLongitude>
+  <hasLatitude>
+    41.99
+  </hasLatitude>
+  <hasType>
+    В.С.О
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    76
+  </id>
+  <hasLocation>
+    Битола
+  </hasLocation>
+  <hasDate>
+    21.10.2010
+  </hasDate>
+  <hasNameOfPlace>
+    с. Кукуречани
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Зоо-Медика ДООЕЛ
+  </hasLegalEntity>
+  <hasAddress>
+    ул.А Кукуречани
+  </hasAddress>
+  <hasLongitude>
+    21.3239752
+  </hasLongitude>
+  <hasLatitude>
+    41.0950222
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    77
+  </id>
+  <hasLocation>
+    Берово
+  </hasLocation>
+  <hasDate>
+    09.11.2010
+  </hasDate>
+  <hasNameOfPlace>
+    с.Смојмирово
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ЖИТО МАЛЕШ АД
+  </hasLegalEntity>
+  <hasAddress>
+    с.Смојмирово
+  </hasAddress>
+  <hasLongitude>
+    22.8410684
+  </hasLongitude>
+  <hasLatitude>
+    41.7367848
+  </hasLatitude>
+  <hasType>
+    В.С.О
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    78
+  </id>
+  <hasLocation>
+    Прилеп
+  </hasLocation>
+  <hasDate>
+    30.11.2010
+  </hasDate>
+  <hasNameOfPlace>
+    ул.Кеј 9ти Септември бр.1/5в
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    вет.амбуланта Новица-Вет
+  </hasLegalEntity>
+  <hasAddress>
+    ул.Кеј 9ти Септември бр.1/5в
+  </hasAddress>
+  <hasLongitude>
+    21.5525
+  </hasLongitude>
+  <hasLatitude>
+    41.342
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    79
+  </id>
+  <hasLocation>
+    Велес
+  </hasLocation>
+  <hasDate>
+    09.12.2010
+  </hasDate>
+  <hasNameOfPlace>
+    ул.Раштански Пат,бб.
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ДПТУМеди Горан ДООЕЛ
+  </hasLegalEntity>
+  <hasAddress>
+    ул.Енгелсова 2/3-2
+  </hasAddress>
+  <hasLongitude>
+    22.19234570093061
+  </hasLongitude>
+  <hasLatitude>
+    41.74516808891092
+  </hasLatitude>
+  <hasType>
+    В.С.О
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    80
+  </id>
+  <hasLocation>
+    Скопје
+  </hasLocation>
+  <hasDate>
+    13.12.2010
+  </hasDate>
+  <hasNameOfPlace>
+    ул.Ѓорче Петров бр.36,
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ВЕТАНАЛ Др.Налетоски ДООЕЛ
+  </hasLegalEntity>
+  <hasAddress>
+    Ул.Волгоградска бр.10/2-6
+  </hasAddress>
+  <hasLongitude>
+    21.423
+  </hasLongitude>
+  <hasLatitude>
+    42.0035
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    81
+  </id>
+  <hasLocation>
+    Ресен
+  </hasLocation>
+  <hasDate>
+    25.01.2011
+  </hasDate>
+  <hasNameOfPlace>
+    ул.6-та бр.72, Ресен
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Др. Перо Стојчевски ДООЕЛ
+  </hasLegalEntity>
+  <hasAddress>
+    ул.6-та бр.72,
+  </hasAddress>
+  <hasLongitude>
+    -52.304834
+  </hasLongitude>
+  <hasLatitude>
+    -31.435166
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    82
+  </id>
+  <hasLocation>
+    Струмица
+  </hasLocation>
+  <hasDate>
+    25.01.2011
+  </hasDate>
+  <hasNameOfPlace>
+    с.Куклиш, бр.258
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Едори-ВетДООЕЛ
+  </hasLegalEntity>
+  <hasAddress>
+    с.Куклиш, бр.258
+  </hasAddress>
+  <hasLongitude>
+    22.655
+  </hasLongitude>
+  <hasLatitude>
+    41.4435
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    83
+  </id>
+  <hasLocation>
+    Валандово
+  </hasLocation>
+  <hasDate>
+    25.01.2011
+  </hasDate>
+  <hasNameOfPlace>
+    ул.29 Ноември бр.2
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Хемо-Вет ДООЕЛ
+  </hasLegalEntity>
+  <hasAddress>
+    ул.29 Ноември бр.2
+  </hasAddress>
+  <hasLongitude>
+    21.554397596344664
+  </hasLongitude>
+  <hasLatitude>
+    41.34575361273471
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    84
+  </id>
+  <hasLocation>
+    Куманово
+  </hasLocation>
+  <hasDate>
+    21.01.2011
+  </hasDate>
+  <hasNameOfPlace>
+    ул.205, бр.4
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Ветеринарна клиника ИНО ВЕТ
+  </hasLegalEntity>
+  <hasAddress>
+    ул.205, бр.4
+  </hasAddress>
+  <hasLongitude>
+    -7.9137227
+  </hasLongitude>
+  <hasLatitude>
+    40.6417909
+  </hasLatitude>
+  <hasType>
+    Клиника
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    85
+  </id>
+  <hasLocation>
+    Скопје
+  </hasLocation>
+  <hasDate>
+    07.07.2011
+  </hasDate>
+  <hasNameOfPlace>
+    ул.526,бр.8, Марино
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Винивет Плус дооел увоз-извоз
+  </hasLegalEntity>
+  <hasAddress>
+    ул.Париска Комуна 14-2/16
+  </hasAddress>
+  <hasLongitude>
+    21.4195
+  </hasLongitude>
+  <hasLatitude>
+    41.998
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    86
+  </id>
+  <hasLocation>
+    Валандово
+  </hasLocation>
+  <hasDate>
+    25.01.2011
+  </hasDate>
+  <hasNameOfPlace>
+    ул.Првомајска бр.29
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ДПТУ фарма АГРИПО ДОО
+  </hasLegalEntity>
+  <hasAddress>
+    ул.Првомајска бр.29
+  </hasAddress>
+  <hasLongitude>
+    20.52186091967293
+  </hasLongitude>
+  <hasLatitude>
+    44.78286804783164
+  </hasLatitude>
+  <hasType>
+    В.С.О
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    87
+  </id>
+  <hasLocation>
+    Скопје
+  </hasLocation>
+  <hasDate>
+    27.01.2011
+  </hasDate>
+  <hasNameOfPlace>
+    ул.Драчевска бр.120
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Дини ГМ-ВетДОО увоз-извоз
+  </hasLegalEntity>
+  <hasAddress>
+    ул.Драчевска бр.120
+  </hasAddress>
+  <hasLongitude>
+    41.9978
+  </hasLongitude>
+  <hasLatitude>
+    41.9978
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    88
+  </id>
+  <hasLocation>
+    Скопје
+  </hasLocation>
+  <hasDate>
+    21.02.2011
+  </hasDate>
+  <hasNameOfPlace>
+    ул.Бул. Авној 4/2
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Вет Акцесориус ДООЕЛувоз-извоз
+  </hasLegalEntity>
+  <hasAddress>
+    бул.Јане сандански бр.11
+  </hasAddress>
+  <hasLongitude>
+    21.413
+  </hasLongitude>
+  <hasLatitude>
+    41.9965
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    89
+  </id>
+  <hasLocation>
+    Битола
+  </hasLocation>
+  <hasDate>
+    24.03.2011
+  </hasDate>
+  <hasNameOfPlace>
+    ул. Индустриска бб.
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Вет-Макс И.Т. ДООЕЛ
+  </hasLegalEntity>
+  <hasAddress>
+    ул. Индустриска бб.
+  </hasAddress>
+  <hasLongitude>
+    21.47194853234229
+  </hasLongitude>
+  <hasLatitude>
+    41.994268906493
+  </hasLatitude>
+  <hasType>
+    Клиника
+  </hasType>
+</ambulance>
+<ambulance>
+<id>
+    90
+  </id>
+  <hasLocation>
+    Свети Николе
+  </hasLocation>
+  <hasDate>
+    16.5.2011
+  </hasDate>
+  <hasNameOfPlace>
+    ул.Моша Пијаде бр.5
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Алфа Вет ДООЕЛ
+  </hasLegalEntity>
+  <hasAddress>
+    ул.Моша Пијаде бр.5
+  </hasAddress>
+  <hasLongitude>
+    21.33623826659433
+  </hasLongitude>
+  <hasLatitude>
+    41.03242465221065
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    91
+  </id>
+  <hasLocation>
+    Скопје
+  </hasLocation>
+  <hasDate>
+    01.07.2011
+  </hasDate>
+  <hasNameOfPlace>
+    бул.Јане сандански бр.61
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Пет Вет АероДООЕЛ
+  </hasLegalEntity>
+  <hasAddress>
+    бул.Јане сандански бр.61
+  </hasAddress>
+  <hasLongitude>
+    21.4315
+  </hasLongitude>
+  <hasLatitude>
+    42.0045
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    92
+  </id>
+  <hasLocation>
+    Радовиш
+  </hasLocation>
+  <hasDate>
+    15.07.2011
+  </hasDate>
+  <hasNameOfPlace>
+    ул.Плачковица бр.221
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Анимал - Вет ДООЕЛ
+  </hasLegalEntity>
+  <hasAddress>
+    ул.Плачковица бр.221
+  </hasAddress>
+  <hasLongitude>
+    20.866141009639463
+  </hasLongitude>
+  <hasLatitude>
+    44.022534654467705
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    93
+  </id>
+  <hasLocation>
+    Охрид
+  </hasLocation>
+  <hasDate>
+    19.09.2011
+  </hasDate>
+  <hasNameOfPlace>
+    с.Требеништа
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ТД Мак маркетинг увоз-извоз ДОО
+  </hasLegalEntity>
+  <hasAddress>
+    с.Требеништа
+  </hasAddress>
+  <hasLongitude>
+    20.7526523
+  </hasLongitude>
+  <hasLatitude>
+    41.207558
+  </hasLatitude>
+  <hasType>
+    Клиника
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    94
+  </id>
+  <hasLocation>
+    Скопје
+  </hasLocation>
+  <hasDate>
+    19.09.2011
+  </hasDate>
+  <hasNameOfPlace>
+    ул.Лазар Поп Трајков бр.5-7
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    УКИМ ф-тет В.медицина
+  </hasLegalEntity>
+  <hasAddress>
+    ул.Лазар Поп Трајков бр.5-7
+  </hasAddress>
+  <hasLongitude>
+    21.4395
+  </hasLongitude>
+  <hasLatitude>
+    41.9925
+  </hasLatitude>
+  <hasType>
+    Болница
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    95
+  </id>
+  <hasLocation>
+    Тетово
+  </hasLocation>
+  <hasDate>
+    08.11.2011
+  </hasDate>
+  <hasNameOfPlace>
+    ул.101с.Боговиње
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Албавет-ВетеринаДООЕЛ експорт-импорт с.Боговиње
+  </hasLegalEntity>
+  <hasAddress>
+    ул.101с.Боговиње
+  </hasAddress>
+  <hasLongitude>
+    20.914348
+  </hasLongitude>
+  <hasLatitude>
+    41.9249545
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    96
+  </id>
+  <hasLocation>
+    Дебар
+  </hasLocation>
+  <hasDate>
+    16.12.2011
+  </hasDate>
+  <hasNameOfPlace>
+    Ул.братство единство бр.21
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Макси ДООЕЛ
+  </hasLegalEntity>
+  <hasAddress>
+    ул.Амди Леши бр.21
+  </hasAddress>
+  <hasLongitude>
+    20.5935
+  </hasLongitude>
+  <hasLatitude>
+    41.2105
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    97
+  </id>
+  <hasLocation>
+    Куманово
+  </hasLocation>
+  <hasDate>
+    27.01.2012
+  </hasDate>
+  <hasNameOfPlace>
+    с.Табановце
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ТАУРУС-ВЕТ,ДОЕЛ
+  </hasLegalEntity>
+  <hasAddress>
+    с.Табановце
+  </hasAddress>
+  <hasLongitude>
+    21.7080545
+  </hasLongitude>
+  <hasLatitude>
+    42.2143133
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    98
+  </id>
+  <hasLocation>
+    Валандово
+  </hasLocation>
+  <hasDate>
+    30.01.2012
+  </hasDate>
+  <hasNameOfPlace>
+    ул.29 Ноември бр.2
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ВАЛАНДОВО-ВЕТ,ДОО
+  </hasLegalEntity>
+  <hasAddress>
+    ул.29 Ноември бр.2
+  </hasAddress>
+  <hasLongitude>
+    21.554397596344664
+  </hasLongitude>
+  <hasLatitude>
+    41.34575361273471
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    99
+  </id>
+  <hasLocation>
+    Штип
+  </hasLocation>
+  <hasDate>
+    08.02.2012
+  </hasDate>
+  <hasNameOfPlace>
+    с.Таринци
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    С.Ф.Мак Месо
+  </hasLegalEntity>
+  <hasAddress>
+    с.Таринци
+  </hasAddress>
+  <hasLongitude>
+    22.2294337
+  </hasLongitude>
+  <hasLatitude>
+    41.7987083
+  </hasLatitude>
+  <hasType>
+    В.С.О
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    100
+  </id>
+  <hasLocation>
+    Радовиш
+  </hasLocation>
+  <hasDate>
+    13.03.2012
+  </hasDate>
+  <hasNameOfPlace>
+    с.Подареш
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ВИКИ-МЕДИКА ДООЕЛ
+  </hasLegalEntity>
+  <hasAddress>
+    с.Подареш
+  </hasAddress>
+  <hasLongitude>
+    22.5423766
+  </hasLongitude>
+  <hasLatitude>
+    41.6146317
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    101
+  </id>
+  <hasLocation>
+    Штип
+  </hasLocation>
+  <hasDate>
+    24.04.2012
+  </hasDate>
+  <hasNameOfPlace>
+    ул.Сутјеска бр.83/А локал 5
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Алфа Алфа ДООЕЛ В.амбуланта Нова
+  </hasLegalEntity>
+  <hasAddress>
+    с.Врсаково
+  </hasAddress>
+  <hasLongitude>
+    22.1192403
+  </hasLongitude>
+  <hasLatitude>
+    41.8172794
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    102
+  </id>
+  <hasLocation>
+    Струмица
+  </hasLocation>
+  <hasDate>
+    29.06.2012
+  </hasDate>
+  <hasNameOfPlace>
+    ул.Гоце Делчев бр.61 А
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ДТПУ ВЕТЕРИНА ЦЕНТАР ДООЕЛ
+  </hasLegalEntity>
+  <hasAddress>
+    ул.Јанко цветинов бр.50/1-3
+  </hasAddress>
+  <hasLongitude>
+    22.6201
+  </hasLongitude>
+  <hasLatitude>
+    41.4308
+  </hasLatitude>
+  <hasType>
+    Клиника
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    103
+  </id>
+  <hasLocation>
+    Велес
+  </hasLocation>
+  <hasDate>
+    23.07.2012
+  </hasDate>
+  <hasNameOfPlace>
+    Каратманово ВГ
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    УНИАГРО увоз-извоз ДОО
+  </hasLegalEntity>
+  <hasAddress>
+    с.Ново село
+  </hasAddress>
+  <hasLongitude>
+    22.7839149
+  </hasLongitude>
+  <hasLatitude>
+    44.1621209
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    104
+  </id>
+  <hasLocation>
+    Пробиштип
+  </hasLocation>
+  <hasDate>
+    31.07.2012
+  </hasDate>
+  <hasNameOfPlace>
+    ул. Вељко Влаховиќ број 26
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    МИЛАН ВЕТ ДООЕЛ
+  </hasLegalEntity>
+  <hasAddress>
+    ул. Вељко Влаховиќ број 26
+  </hasAddress>
+  <hasLongitude>
+    22.1831
+  </hasLongitude>
+  <hasLatitude>
+    41.9965
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    105
+  </id>
+  <hasLocation>
+    Свети Николе 
+  </hasLocation>
+  <hasDate>
+    31.08.2012
+  </hasDate>
+  <hasNameOfPlace>
+    ул.Ванчо Ангелов бр.39
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    АНИМАЛВЕТ-КИМ ДООЕЛ
+  </hasLegalEntity>
+  <hasAddress>
+    ул.Ванчо Ангелов бр.39
+  </hasAddress>
+  <hasLongitude>
+    21.948623789577518
+  </hasLongitude>
+  <hasLatitude>
+    41.86474305117083
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    106
+  </id>
+  <hasLocation>
+    Прилеп
+  </hasLocation>
+  <hasDate>
+    18,09,2012
+  </hasDate>
+  <hasNameOfPlace>
+    ул.Ладо Лапецот бр.102
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ДПУТТ Прилепски Текстилен конзорциум
+  </hasLegalEntity>
+  <hasAddress>
+    ул.Златибор бр.64
+  </hasAddress>
+  <hasLongitude>
+    21.558
+  </hasLongitude>
+  <hasLatitude>
+    41.34
+  </hasLatitude>
+  <hasType>
+    Клиника
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    107
+  </id>
+  <hasLocation>
+    Битола
+  </hasLocation>
+  <hasDate>
+    15,10,2012
+  </hasDate>
+  <hasNameOfPlace>
+    Ул.А бр.30 с.Бистрица
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Aлекси Вет ДООЕЛ
+  </hasLegalEntity>
+  <hasAddress>
+    Ул.А бр.30 с.Бистрица
+  </hasAddress>
+  <hasLongitude>
+    21.323559
+  </hasLongitude>
+  <hasLatitude>
+    41.025942
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    108
+  </id>
+  <hasLocation>
+    Скопје
+  </hasLocation>
+  <hasDate>
+    30.10.2012
+  </hasDate>
+  <hasNameOfPlace>
+    ул.Китка бр.65
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Драчево Вет ДООЕЛ
+  </hasLegalEntity>
+  <hasAddress>
+    ул.Китка бр.65
+  </hasAddress>
+  <hasLongitude>
+    21.4345
+  </hasLongitude>
+  <hasLatitude>
+    42.0085
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    109
+  </id>
+  <hasLocation>
+    Струмица
+  </hasLocation>
+  <hasDate>
+    05.11.2012
+  </hasDate>
+  <hasNameOfPlace>
+    ул.Климент Охридски бр.29
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Мега-ВетДООЕЛ
+  </hasLegalEntity>
+  <hasAddress>
+    ул.Климент Охридски бр.29
+  </hasAddress>
+  <hasLongitude>
+    27.82548941019861
+  </hasLongitude>
+  <hasLatitude>
+    43.57437896220751
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    110
+  </id>
+  <hasLocation>
+    Ресен
+  </hasLocation>
+  <hasDate>
+    09.11.2012
+  </hasDate>
+  <hasNameOfPlace>
+    ул.29 Ноември бр.1
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Др.Новица ВеличковскиДООЕЛ
+  </hasLegalEntity>
+  <hasAddress>
+    ул.29 Ноември бр.1
+  </hasAddress>
+  <hasLongitude>
+    21.554397596344664
+  </hasLongitude>
+  <hasLatitude>
+    41.34575361273471
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    111
+  </id>
+  <hasLocation>
+    Скопје
+  </hasLocation>
+  <hasDate>
+    13.11.2012
+  </hasDate>
+  <hasNameOfPlace>
+    Ул.Драмска бр.5А
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ПЕТ СВЕТ 2012ДООЕЛ
+  </hasLegalEntity>
+  <hasAddress>
+    бул.Јане Сандански бр.12-1/13
+  </hasAddress>
+  <hasLongitude>
+    21.4185
+  </hasLongitude>
+  <hasLatitude>
+    42.006
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    112
+  </id>
+  <hasLocation>
+    Демир Хисар
+  </hasLocation>
+  <hasDate>
+    23.11.2012
+  </hasDate>
+  <hasNameOfPlace>
+    ул.Битолска бр. 7Ж
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Зебра ветерина
+  </hasLegalEntity>
+  <hasAddress>
+    ул.Битолска бр. 7Ж
+  </hasAddress>
+  <hasLongitude>
+    22.2615
+  </hasLongitude>
+  <hasLatitude>
+    41.4855
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    113
+  </id>
+  <hasLocation>
+    Скопје
+  </hasLocation>
+  <hasDate>
+    23.11.2012
+  </hasDate>
+  <hasNameOfPlace>
+    ул.10 бб с. Кадино,општ. Илинден
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Ветеринарна Станица Јо-Ка Вет ДОО 
+  </hasLegalEntity>
+  <hasAddress>
+    ул.10 бб с. Кадино,општ. Илинден
+  </hasAddress>
+  <hasLongitude>
+    21.426
+  </hasLongitude>
+  <hasLatitude>
+    42.002
+  </hasLatitude>
+  <hasType>
+    Клиника
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    114
+  </id>
+  <hasLocation>
+    Струмица
+  </hasLocation>
+  <hasDate>
+    04.12.2012
+  </hasDate>
+  <hasNameOfPlace>
+    с.Сушица бр.105 општ.Ново Село
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    АД З.С.К. Струмица сСушица Н.Село
+  </hasLegalEntity>
+  <hasAddress>
+    с.Сушица бр.105 општ.Ново Село
+  </hasAddress>
+  <hasLongitude>
+    41.428
+  </hasLongitude>
+  <hasLatitude>
+    41.428
+  </hasLatitude>
+  <hasType>
+    В.С.О
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    115
+  </id>
+  <hasLocation>
+    Тетово
+  </hasLocation>
+  <hasDate>
+    14.12.2012
+  </hasDate>
+  <hasNameOfPlace>
+    с.Сараќино
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Здравје вет ДООЕЛ
+  </hasLegalEntity>
+  <hasAddress>
+    ул.101 до река Пена с.Сараќино
+  </hasAddress>
+  <hasLongitude>
+    20.9738
+  </hasLongitude>
+  <hasLatitude>
+    42.001
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    116
+  </id>
+  <hasLocation>
+    Скопје
+  </hasLocation>
+  <hasDate>
+    18.12.2012
+  </hasDate>
+  <hasNameOfPlace>
+    ул.Бутелска бр.5-2
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Вет Медика ЗиА ДОО
+  </hasLegalEntity>
+  <hasAddress>
+    с.Подбреѓе , Јегуновце
+  </hasAddress>
+  <hasLongitude>
+    21.1211218
+  </hasLongitude>
+  <hasLatitude>
+    42.0632269
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    117
+  </id>
+  <hasLocation>
+    Липково
+  </hasLocation>
+  <hasDate>
+    19.12.2012
+  </hasDate>
+  <hasNameOfPlace>
+    с.Слупчане
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Асра Вет ДООЕЛ
+  </hasLegalEntity>
+  <hasAddress>
+    с.Слупчане
+  </hasAddress>
+  <hasLongitude>
+    21.6277732
+  </hasLongitude>
+  <hasLatitude>
+    42.173334
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    118
+  </id>
+  <hasLocation>
+    Куманово
+  </hasLocation>
+  <hasDate>
+    25.12.2012
+  </hasDate>
+  <hasNameOfPlace>
+    с.Тромеѓа
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ветеринарно сточарски центар амбуланта тромеѓа доо
+  </hasLegalEntity>
+  <hasAddress>
+    нм Тромеѓа
+  </hasAddress>
+  <hasLongitude>
+    21.7125
+  </hasLongitude>
+  <hasLatitude>
+    42.14
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    119
+  </id>
+  <hasLocation>
+    Куманово
+  </hasLocation>
+  <hasDate>
+    25.12.2012
+  </hasDate>
+  <hasNameOfPlace>
+    с.Табановце
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ветеринарно сточарски центар амбуланта табановце доо
+  </hasLegalEntity>
+  <hasAddress>
+    с.Табановце
+  </hasAddress>
+  <hasLongitude>
+    21.7080545
+  </hasLongitude>
+  <hasLatitude>
+    42.2143133
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    120
+  </id>
+  <hasLocation>
+    Теарце
+  </hasLocation>
+  <hasDate>
+    28.12.2012
+  </hasDate>
+  <hasNameOfPlace>
+    с. Теарце
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Пајо Вет ДООЕЛ 
+  </hasLegalEntity>
+  <hasAddress>
+    с. Теарце
+  </hasAddress>
+  <hasLongitude>
+    21.0538531
+  </hasLongitude>
+  <hasLatitude>
+    42.0781929
+  </hasLatitude>
+  <hasType>
+    Клиника
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    121
+  </id>
+  <hasLocation>
+    Гостивар
+  </hasLocation>
+  <hasDate>
+    28.12.2012
+  </hasDate>
+  <hasNameOfPlace>
+    ул.Панче Попоски бр 2/1-2
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    АГ-ЕР ВЕТ дооел увоз-извоз
+  </hasLegalEntity>
+  <hasAddress>
+    ул.Панче Попоски бр 2/1-1
+  </hasAddress>
+  <hasLongitude>
+    20.9205
+  </hasLongitude>
+  <hasLatitude>
+    41.608
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    122
+  </id>
+  <hasLocation>
+    Богданци
+  </hasLocation>
+  <hasDate>
+    15.01.2013
+  </hasDate>
+  <hasNameOfPlace>
+    с.Стојаково,ул.Владо Пиперов бр.7
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ДТУ Анри вет
+  </hasLegalEntity>
+  <hasAddress>
+    с.Стојаково,ул.Владо Пиперов бр.7
+  </hasAddress>
+  <hasLongitude>
+    22.4225
+  </hasLongitude>
+  <hasLatitude>
+    41.4525
+  </hasLatitude>
+  <hasType>
+    Клиника
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    123
+  </id>
+  <hasLocation>
+    Струмица
+  </hasLocation>
+  <hasDate>
+    15.01.2013
+  </hasDate>
+  <hasNameOfPlace>
+    с.Ново Село,ул.М.Тито бр.33
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ВИП ПРОМ ДОО
+  </hasLegalEntity>
+  <hasAddress>
+    ул.Ленинова бр.2 Н.Село
+  </hasAddress>
+  <hasLongitude>
+    22.6323
+  </hasLongitude>
+  <hasLatitude>
+    41.4442
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    124
+  </id>
+  <hasLocation>
+    Тетово
+  </hasLocation>
+  <hasDate>
+    21.01.2013
+  </hasDate>
+  <hasNameOfPlace>
+    с. Боговиње
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ветеринарна станица БОГОВИНА ДООЕЛ
+  </hasLegalEntity>
+  <hasAddress>
+    с. Боговиње
+  </hasAddress>
+  <hasLongitude>
+    20.914348
+  </hasLongitude>
+  <hasLatitude>
+    41.9249545
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    125
+  </id>
+  <hasLocation>
+    Демир Хисар
+  </hasLocation>
+  <hasDate>
+    01.03.2013
+  </hasDate>
+  <hasNameOfPlace>
+    ул.Маршал Тито бб.
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ДВВДТУ ветеринарна станица Љупчо и др. ДОО 
+  </hasLegalEntity>
+  <hasAddress>
+    ул.Маршал Тито бб.
+  </hasAddress>
+  <hasLongitude>
+    20.674408315256716
+  </hasLongitude>
+  <hasLatitude>
+    41.1772346
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    126
+  </id>
+  <hasLocation>
+    Скопје
+  </hasLocation>
+  <hasDate>
+    18.03.2013
+  </hasDate>
+  <hasNameOfPlace>
+    с.Петровец
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Вет-ДестДООЕЛ
+  </hasLegalEntity>
+  <hasAddress>
+    ул.Маршал Тито бр.43 с. Петровец
+  </hasAddress>
+  <hasLongitude>
+    21.578
+  </hasLongitude>
+  <hasLatitude>
+    41.9935
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    127
+  </id>
+  <hasLocation>
+    Струмица
+  </hasLocation>
+  <hasDate>
+    08.03.2013
+  </hasDate>
+  <hasNameOfPlace>
+    ул. Дрварска бр.50,
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    МИС НОВА ДООЕЛ
+  </hasLegalEntity>
+  <hasAddress>
+    ул. Иљо Шопов бр.43/2, Струмица
+  </hasAddress>
+  <hasLongitude>
+    22.645
+  </hasLongitude>
+  <hasLatitude>
+    41.442
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    128
+  </id>
+  <hasLocation>
+    Тетово
+  </hasLocation>
+  <hasDate>
+    14.03.2013
+  </hasDate>
+  <hasNameOfPlace>
+    ул. Јане Сандански 8
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Друштво ДОК И КЕТ ДООЕЛ
+  </hasLegalEntity>
+  <hasAddress>
+    ул. Јане Сандански 8
+  </hasAddress>
+  <hasLongitude>
+    21.215093374390243
+  </hasLongitude>
+  <hasLatitude>
+    41.5128874
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    129
+  </id>
+  <hasLocation>
+    Радовиш
+  </hasLocation>
+  <hasDate>
+    19.03.2013
+  </hasDate>
+  <hasNameOfPlace>
+    ул. Самоилова бр. 2
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    УНИВЕТ Јонче и др ДОО
+  </hasLegalEntity>
+  <hasAddress>
+    ул Самоилова 2
+  </hasAddress>
+  <hasLongitude>
+    37.76294606167808
+  </hasLongitude>
+  <hasLatitude>
+    47.9591543
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    130
+  </id>
+  <hasLocation>
+    Струмица
+  </hasLocation>
+  <hasDate>
+    21.03.2013
+  </hasDate>
+  <hasNameOfPlace>
+    ул.Климент Охридски бр.308
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ДПТУ Лакто-Вет ДООЕЛ увоз-извоз
+  </hasLegalEntity>
+  <hasAddress>
+    ул.Ката Поцкова бр.76
+  </hasAddress>
+  <hasLongitude>
+    22.6555
+  </hasLongitude>
+  <hasLatitude>
+    41.4325
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    131
+  </id>
+  <hasLocation>
+    Крива Паланка
+  </hasLocation>
+  <hasDate>
+    21.03.2013
+  </hasDate>
+  <hasNameOfPlace>
+    Ранковце
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Ветеринарна СтаницаДОО Крива Паланка
+  </hasLegalEntity>
+  <hasAddress>
+    ул. Св.Јоаким Осоговски бр. 61
+  </hasAddress>
+  <hasLongitude>
+    22.348
+  </hasLongitude>
+  <hasLatitude>
+    42.007
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    132
+  </id>
+  <hasLocation>
+    Скопје
+  </hasLocation>
+  <hasDate>
+    13.05.2013
+  </hasDate>
+  <hasNameOfPlace>
+    ул.3 бр.2 ,Кондово,Сарај
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ДПТУ АМСА-ВЕТ-САМЕТ ДООЕЛ
+  </hasLegalEntity>
+  <hasAddress>
+    ул.3 бр.2 ,Кондово,Сарај
+  </hasAddress>
+  <hasLongitude>
+    21.427
+  </hasLongitude>
+  <hasLatitude>
+    41.948
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    133
+  </id>
+  <hasLocation>
+    Тетово
+  </hasLocation>
+  <hasDate>
+    10.06.2013
+  </hasDate>
+  <hasNameOfPlace>
+    с.Џепчиште
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ДПТВУ Аљбавет-Вери ДООЕЛ експорт-импорт
+  </hasLegalEntity>
+  <hasAddress>
+    с.Џепчиште
+  </hasAddress>
+  <hasLongitude>
+    21.002694
+  </hasLongitude>
+  <hasLatitude>
+    42.0363532
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    134
+  </id>
+  <hasLocation>
+    Кратово
+  </hasLocation>
+  <hasDate>
+    24.06.2013
+  </hasDate>
+  <hasNameOfPlace>
+    ул. Цанка Андреевска бр.14
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ДПТУ ЕУРО КОМПАНИ ДООЕЛ увоз-извоз
+  </hasLegalEntity>
+  <hasAddress>
+    ул. Гоце Делчев бр. Бб
+  </hasAddress>
+  <hasLongitude>
+    22.181
+  </hasLongitude>
+  <hasLatitude>
+    42.0865
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    135
+  </id>
+  <hasLocation>
+    Гевгелија
+  </hasLocation>
+  <hasDate>
+    23.09.2013
+  </hasDate>
+  <hasNameOfPlace>
+    ул.Моински пат бб
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ДПТУ ВЕТЕРИНАР ДОО експорт-импорт
+  </hasLegalEntity>
+  <hasAddress>
+    ул. 7ми Ноември бр.75,
+  </hasAddress>
+  <hasLongitude>
+    22.4975
+  </hasLongitude>
+  <hasLatitude>
+    41.143
+  </hasLatitude>
+  <hasType>
+    В.С.О
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    136
+  </id>
+  <hasLocation>
+    Гостивар
+  </hasLocation>
+  <hasDate>
+    26.11.2013
+  </hasDate>
+  <hasNameOfPlace>
+    ул. 18 Ноември бр. 27
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Нова Вет ДООЕЛ Гостивар
+  </hasLegalEntity>
+  <hasAddress>
+    ул. 18 Ноември бр. 27
+  </hasAddress>
+  <hasLongitude>
+    20.9008419099205
+  </hasLongitude>
+  <hasLatitude>
+    41.79626135596085
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    137
+  </id>
+  <hasLocation>
+    Скопје
+  </hasLocation>
+  <hasDate>
+    29.11.2013
+  </hasDate>
+  <hasNameOfPlace>
+    ул. Митрополит Теодосије Гологанов  бр. 149-12
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Доктор Јасминка ван дер Флиер ДООЕЛ
+  </hasLegalEntity>
+  <hasAddress>
+    ул. Митрополит Теодосије Гологанов  бр. 149-12
+  </hasAddress>
+  <hasLongitude>
+    21.45
+  </hasLongitude>
+  <hasLatitude>
+    42.0015
+  </hasLatitude>
+  <hasType>
+    Амбуланта ДМ
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    138
+  </id>
+  <hasLocation>
+    Градско
+  </hasLocation>
+  <hasDate>
+    04.12.2013
+  </hasDate>
+  <hasNameOfPlace>
+    ул. 4-ти Јули  бр. 57
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ДППЗСП ВАРДАР АД Градско
+  </hasLegalEntity>
+  <hasAddress>
+    Автопат бр.4, Градско
+  </hasAddress>
+  <hasLongitude>
+    21.525
+  </hasLongitude>
+  <hasLatitude>
+    41.626
+  </hasLatitude>
+  <hasType>
+    В.С.О
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    139
+  </id>
+  <hasLocation>
+    Велес
+  </hasLocation>
+  <hasDate>
+    08.01.2014
+  </hasDate>
+  <hasNameOfPlace>
+    ул. Вардарска бб, м.в. ЛАКА 
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ДВИЛ Сирмес ТД увоз извоз
+  </hasLegalEntity>
+  <hasAddress>
+    ул.Благој Ѓорев бб.
+  </hasAddress>
+  <hasLongitude>
+    21.75849844717112
+  </hasLongitude>
+  <hasLatitude>
+    41.705523399472376
+  </hasLatitude>
+  <hasType>
+    В.С.О
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    140
+  </id>
+  <hasLocation>
+    Кочани
+  </hasLocation>
+  <hasDate>
+    14.01.2014
+  </hasDate>
+  <hasNameOfPlace>
+    ул. Страшо Ербапче  бр.25,
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ДПТУ АВИЦЕНА-ВЕТ ДООЕЛ увоз - извоз
+  </hasLegalEntity>
+  <hasAddress>
+    ул. 1-ви Мај  бр. 4 , Спанчево, Чешиново-Облешево
+  </hasAddress>
+  <hasLongitude>
+    22.4125
+  </hasLongitude>
+  <hasLatitude>
+    41.7805
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    141
+  </id>
+  <hasLocation>
+    Пробиштип
+  </hasLocation>
+  <hasDate>
+    03.04.2014
+  </hasDate>
+  <hasNameOfPlace>
+    ул. 8-ми Септември  бр. 39
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ДУПТ ВИВА ВЕТ 2014 ДОО
+  </hasLegalEntity>
+  <hasAddress>
+    ул. 8-ми Септември  бр. 39
+  </hasAddress>
+  <hasLongitude>
+    21.22532971881395
+  </hasLongitude>
+  <hasLatitude>
+    41.50757219818275
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    142
+  </id>
+  <hasLocation>
+    Тетово
+  </hasLocation>
+  <hasDate>
+    01.07.2014
+  </hasDate>
+  <hasNameOfPlace>
+    ул. Благоја Тоска бр.63
+  </hasNameOfPlace>
+  <hasLegalEntity>
+     ДВУ Праксис Зуфер ДООЕЛ експорт-импорт с. Желино
+  </hasLegalEntity>
+  <hasAddress>
+    с.Желино
+  </hasAddress>
+  <hasLongitude>
+    21.0619745
+  </hasLongitude>
+  <hasLatitude>
+    41.9815581
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    143
+  </id>
+  <hasLocation>
+    Скопје
+  </hasLocation>
+  <hasDate>
+    02.07.2014
+  </hasDate>
+  <hasNameOfPlace>
+    бул.Јане сандански бр.59,лок 7
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ДТУ ЗОО Бутик Тропски Свет ДООЕЛ
+  </hasLegalEntity>
+  <hasAddress>
+    бул.Јане сандански бр.59,лок 7-Аеродром
+  </hasAddress>
+  <hasLongitude>
+    21.444
+  </hasLongitude>
+  <hasLatitude>
+    41.998
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    144
+  </id>
+  <hasLocation>
+    Скопје
+  </hasLocation>
+  <hasDate>
+    10.07.2014
+  </hasDate>
+  <hasNameOfPlace>
+    ул. Елисие Поповски - Марко  бр. 55б
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ДВТУ РОЈАЛ-ВЕТ  ДООЕЛ увоз-извоз
+  </hasLegalEntity>
+  <hasAddress>
+    ул. Елисие Поповски - Марко  бр. 55б
+  </hasAddress>
+  <hasLongitude>
+    21.474
+  </hasLongitude>
+  <hasLatitude>
+    41.9965
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    145
+  </id>
+  <hasLocation>
+    Богданци
+  </hasLocation>
+  <hasDate>
+    17.07.2014
+  </hasDate>
+  <hasNameOfPlace>
+    ул.Кукушка бр.7
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ДПТУ ДР.ИЧКОВ ДООЕЛ увоз-извоз
+  </hasLegalEntity>
+  <hasAddress>
+    ул.Кукушка бр.7
+  </hasAddress>
+  <hasLongitude>
+    40.594219
+  </hasLongitude>
+  <hasLatitude>
+    64.450928
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    146
+  </id>
+  <hasLocation>
+    Градско
+  </hasLocation>
+  <hasDate>
+    18.09.2014
+  </hasDate>
+  <hasNameOfPlace>
+    с.Долно Чичево
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Агриа Агроиндустриска групација ДОО
+  </hasLegalEntity>
+  <hasAddress>
+    Ул.8 ми Септември бр 64
+  </hasAddress>
+  <hasLongitude>
+    21.5285
+  </hasLongitude>
+  <hasLatitude>
+    41.6285
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    147
+  </id>
+  <hasLocation>
+    Битола
+  </hasLocation>
+  <hasDate>
+    20.10.2014
+  </hasDate>
+  <hasNameOfPlace>
+    бул.1ви Мај бр.210
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Вет-Макс И.Т. ДООЕЛ
+  </hasLegalEntity>
+  <hasAddress>
+    ул. Индустриска бб.
+  </hasAddress>
+  <hasLongitude>
+    21.35067413429859
+  </hasLongitude>
+  <hasLatitude>
+    41.0253968
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    148
+  </id>
+  <hasLocation>
+    Струмица
+  </hasLocation>
+  <hasDate>
+    20.10.2014
+  </hasDate>
+  <hasNameOfPlace>
+    с.Мокриево бр.191
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ДПТУ ТРИВЕТ ЗВОНКО ДООЕЛ 
+  </hasLegalEntity>
+  <hasAddress>
+    ул.Крушевска Република бр.203
+  </hasAddress>
+  <hasLongitude>
+    22.849592133389702
+  </hasLongitude>
+  <hasLatitude>
+    41.7068938861535
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    149
+  </id>
+  <hasLocation>
+    Охрид
+  </hasLocation>
+  <hasDate>
+    30.10.2014
+  </hasDate>
+  <hasNameOfPlace>
+    Бул. Македонски просветители бб
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Друштво за услуги трговија и производство, MAJA-ТАМАРА-ВЕТ  увоз-извоз  ДООЕЛ
+  </hasLegalEntity>
+  <hasAddress>
+    Бул. Македонски просветители бб, ТЦ Охриганка 1
+  </hasAddress>
+  <hasLongitude>
+    20.8035
+  </hasLongitude>
+  <hasLatitude>
+    41.1055
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    150
+  </id>
+  <hasLocation>
+    Скопје
+  </hasLocation>
+  <hasDate>
+    05.12.2014
+  </hasDate>
+  <hasNameOfPlace>
+    ул.Московска бр. 7/004
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ДТУ ВЕТМЕДИК 2014 ДООЕЛ
+  </hasLegalEntity>
+  <hasAddress>
+    ул.Московска бр. 7/004 Карпош
+  </hasAddress>
+  <hasLongitude>
+    21.4235
+  </hasLongitude>
+  <hasLatitude>
+    41.9985
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    151
+  </id>
+  <hasLocation>
+    Берово
+  </hasLocation>
+  <hasDate>
+    05.12.2014
+  </hasDate>
+  <hasNameOfPlace>
+    ул.Борис Кидрич бр.14/а
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ДПТУ КИРОВСКИ-ВЕТ ДООЕЛ увоз-извоз  
+  </hasLegalEntity>
+  <hasAddress>
+    ул.Борис Кидрич бр.14/а
+  </hasAddress>
+  <hasLongitude>
+    19.820812675657265
+  </hasLongitude>
+  <hasLatitude>
+    46.110099511603
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    152
+  </id>
+  <hasLocation>
+    Скопје
+  </hasLocation>
+  <hasDate>
+    17.12.2014
+  </hasDate>
+  <hasNameOfPlace>
+    с. Пекљане Виница
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ДОЖТУ Вини Фарма Доо н.м Илинден Илинден
+  </hasLegalEntity>
+  <hasAddress>
+    ул. 9 бр. 47 н. Илинден
+  </hasAddress>
+  <hasLongitude>
+    21.4755
+  </hasLongitude>
+  <hasLatitude>
+    41.9945
+  </hasLatitude>
+  <hasType>
+    В.С.О
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    153
+  </id>
+  <hasLocation>
+    Струга
+  </hasLocation>
+  <hasDate>
+    22.12.2014
+  </hasDate>
+  <hasNameOfPlace>
+    ул.27 март Струга б.б
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ТДПТУ Петар Вет ДООЕЛ Струга
+  </hasLegalEntity>
+  <hasAddress>
+    27 март б.б Струга
+  </hasAddress>
+  <hasLongitude>
+    20.6685
+  </hasLongitude>
+  <hasLatitude>
+    41.17
+  </hasLatitude>
+  <hasType>
+    амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    154
+  </id>
+  <hasLocation>
+    Струмица
+  </hasLocation>
+  <hasDate>
+    08.01.2015
+  </hasDate>
+  <hasNameOfPlace>
+    с. Муртино бр.499 Струмица
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ДПТУ Ветромед Дооел Струмица
+  </hasLegalEntity>
+  <hasAddress>
+    ул. Младинска бр.12 Струмица
+  </hasAddress>
+  <hasLongitude>
+    22.64717041492526
+  </hasLongitude>
+  <hasLatitude>
+    41.43605069612196
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    155
+  </id>
+  <hasLocation>
+    Скопје
+  </hasLocation>
+  <hasDate>
+    26.01.2015
+  </hasDate>
+  <hasNameOfPlace>
+    ул.Булевар Видое Смилевски Бато бр. 11
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ДККУ ЧУНГУРСКИ ДОО Скопје
+  </hasLegalEntity>
+  <hasAddress>
+    ул. Булевар Видое Смилевски Бато бр. 25/2-9
+  </hasAddress>
+  <hasLongitude>
+    21.439
+  </hasLongitude>
+  <hasLatitude>
+    41.97
+  </hasLatitude>
+  <hasType>
+    амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    156
+  </id>
+  <hasLocation>
+    Кавадарци
+  </hasLocation>
+  <hasDate>
+    23.04.2015
+  </hasDate>
+  <hasNameOfPlace>
+    Ул. Киро Крстев бр.4 Кавадарци, Кавадарци
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ДПТУ Каспер 15 ДУО ДОО Увоз Извоз
+  </hasLegalEntity>
+  <hasAddress>
+    Ул. Киро Крстев бр.4 Кавадарци, Кавадарци
+  </hasAddress>
+  <hasLongitude>
+    22.0045
+  </hasLongitude>
+  <hasLatitude>
+    41.429
+  </hasLatitude>
+  <hasType>
+    амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    157
+  </id>
+  <hasLocation>
+    Kочани
+  </hasLocation>
+  <hasDate>
+    01.07.2015
+  </hasDate>
+  <hasNameOfPlace>
+    ул.Теодосија Паунов бр. 55 Кочани
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ДПТУ  ВЕТ МЕД ГЃ ДООЕЛ увоз-извоз Оризари Кочани
+  </hasLegalEntity>
+  <hasAddress>
+    ул.Теодосија Паунов бр. 55 Кочани
+  </hasAddress>
+  <hasLongitude>
+    22.4301855362677
+  </hasLongitude>
+  <hasLatitude>
+    41.91387754717157
+  </hasLatitude>
+  <hasType>
+    амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    158
+  </id>
+  <hasLocation>
+    Скопје
+  </hasLocation>
+  <hasDate>
+    10.07.2015
+  </hasDate>
+  <hasNameOfPlace>
+    ул. Козара бр.64/1 Скопје
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ДВУ Ветеринарен Центар ДООЕЛ
+  </hasLegalEntity>
+  <hasAddress>
+    ул. Козара бр.64/1 Скопје- Центар
+  </hasAddress>
+  <hasLongitude>
+    21.4395
+  </hasLongitude>
+  <hasLatitude>
+    41.986
+  </hasLatitude>
+  <hasType>
+    амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    159
+  </id>
+  <hasLocation>
+    Тетово
+  </hasLocation>
+  <hasDate>
+    26.10.2015
+  </hasDate>
+  <hasNameOfPlace>
+    с. Нераште
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ДВУ Про Вет Нераште ДООЕЛ с. Нераште
+  </hasLegalEntity>
+  <hasAddress>
+    ул.101 бр.1
+  </hasAddress>
+  <hasLongitude>
+    -46.71634704881003
+  </hasLongitude>
+  <hasLatitude>
+    -23.44552165
+  </hasLatitude>
+  <hasType>
+    амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    160
+  </id>
+  <hasLocation>
+    Тетово
+  </hasLocation>
+  <hasDate>
+    23.12.2015
+  </hasDate>
+  <hasNameOfPlace>
+    с. Слатино Теарце
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ДПВДВК ВЕТ-ТЕАРЦЕ ДООЕЛ с. Слатино Теарце
+  </hasLegalEntity>
+  <hasAddress>
+    ул.101 бр.10 с. Слатино Теарце
+  </hasAddress>
+  <hasLongitude>
+    20.9738
+  </hasLongitude>
+  <hasLatitude>
+    42.0011
+  </hasLatitude>
+  <hasType>
+    амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    161
+  </id>
+  <hasLocation>
+    Скопје
+  </hasLocation>
+  <hasDate>
+    04.01.2016
+  </hasDate>
+  <hasNameOfPlace>
+    ул.29 Ноември 4г Дебар Маало, Центар
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    УТД ВЕТКОЛЛ Перо Божиновски ДООЕЛ
+  </hasLegalEntity>
+  <hasAddress>
+    ул.29 Ноември 4г Дебар Маало, Центар
+  </hasAddress>
+  <hasLongitude>
+    21.417201909624985
+  </hasLongitude>
+  <hasLatitude>
+    41.99969823682402
+  </hasLatitude>
+  <hasType>
+    амб.дом. мил.
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    162
+  </id>
+  <hasLocation>
+    Свети Николе
+  </hasLocation>
+  <hasDate>
+    28.01.2016
+  </hasDate>
+  <hasNameOfPlace>
+    ул. Велко Влаховиќ бр. 160
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Ветеринрна амбулантаПРИМА ДОО Свети Николе
+  </hasLegalEntity>
+  <hasAddress>
+    ул. Велко Влаховиќ бр. 160
+  </hasAddress>
+  <hasLongitude>
+    20.669639921964407
+  </hasLongitude>
+  <hasLatitude>
+    41.174075238335625
+  </hasLatitude>
+  <hasType>
+    амбуланта
+  </hasType>
+ </ambulance>
+<ambulance>
+<id>
+    163
+  </id>
+  <hasLocation>
+    Тетово
+  </hasLocation>
+  <hasDate>
+    04.02.2016
+  </hasDate>
+  <hasNameOfPlace>
+    с. Шемшево
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Ветеринарна амбулантаАНИМАЛ ВЕТ ВЛАМА ДООЕЛ с.Шемшево Јегуновце
+  </hasLegalEntity>
+  <hasAddress>
+    ул. 101 бр. 50 Шемшево, Јегуновце
+  </hasAddress>
+  <hasLongitude>
+    20.9718
+  </hasLongitude>
+  <hasLatitude>
+    42.0019
+  </hasLatitude>
+  <hasType>
+    амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    164
+  </id>
+  <hasLocation>
+    Охрид/Дебарца
+  </hasLocation>
+  <hasDate>
+    26.02.2016
+  </hasDate>
+  <hasNameOfPlace>
+    с. Требеништа
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ДПТУ Ветеринарна Амбуланта Климе ДООЕЛ с. Требеништа Дебарца
+  </hasLegalEntity>
+  <hasAddress>
+    с. Требеништа Дебарца
+  </hasAddress>
+  <hasLongitude>
+    20.7526523
+  </hasLongitude>
+  <hasLatitude>
+    41.207558
+  </hasLatitude>
+  <hasType>
+    амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    165
+  </id>
+  <hasLocation>
+    Новаци
+  </hasLocation>
+  <hasDate>
+    11.03.2016
+  </hasDate>
+  <hasNameOfPlace>
+    с. Новаци ул.1 бр.1
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ДПТУ ПРОВЕТАЛЕК ДООЕЛ увоз-извоз  Новаци
+  </hasLegalEntity>
+  <hasAddress>
+    ул.1 бр.1 с. Новаци
+  </hasAddress>
+  <hasLongitude>
+    21.0935
+  </hasLongitude>
+  <hasLatitude>
+    41.313
+  </hasLatitude>
+  <hasType>
+    амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    166
+  </id>
+  <hasLocation>
+    Битола
+  </hasLocation>
+  <hasDate>
+    11.03.2016
+  </hasDate>
+  <hasNameOfPlace>
+    ул.Гоце Делчев бб с. Кравари
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ДВД Ветеринарна амбуланта ФИЛИПОВ ДООЕЛ Битола
+  </hasLegalEntity>
+  <hasAddress>
+    бул.Социјалистичка револуција бб Битола
+  </hasAddress>
+  <hasLongitude>
+    21.32995
+  </hasLongitude>
+  <hasLatitude>
+    41.03051
+  </hasLatitude>
+  <hasType>
+    амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    167
+  </id>
+  <hasLocation>
+    Штип
+  </hasLocation>
+  <hasDate>
+    29.03.2016
+  </hasDate>
+  <hasNameOfPlace>
+    населба Карбинци
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ТД Гоче и Џоле ДОО
+  </hasLegalEntity>
+  <hasAddress>
+    ул. Борис Крајгер бб Штип
+  </hasAddress>
+  <hasLongitude>
+    22.195606989085395
+  </hasLongitude>
+  <hasLatitude>
+    41.752008830903776
+  </hasLatitude>
+  <hasType>
+    амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    168
+  </id>
+  <hasLocation>
+    Битола
+  </hasLocation>
+  <hasDate>
+    12.04.2016
+  </hasDate>
+  <hasNameOfPlace>
+    ул. Кавала бр.1 Битола
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ДУТП  Ветеринарна амбуланта ДР. Стојаноски  увоз извоз ДООЕЛ Битола
+  </hasLegalEntity>
+  <hasAddress>
+    ул. Кавала бр.1 Битола
+  </hasAddress>
+  <hasLongitude>
+    21.339595154479905
+  </hasLongitude>
+  <hasLatitude>
+    41.03420455773544
+  </hasLatitude>
+  <hasType>
+    амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    169
+  </id>
+  <hasLocation>
+    Битола
+  </hasLocation>
+  <hasDate>
+    12.04.2016
+  </hasDate>
+  <hasNameOfPlace>
+    ул. Ѓ бр. 28 с. Могила
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Ветеринарна Амбуланта ПЕЛАГОНИЈА ВЕТ ДООЕЛ с. Могила
+  </hasLegalEntity>
+  <hasAddress>
+    ул. Ѓ бр. 28 с. Могила Могила
+  </hasAddress>
+  <hasLongitude>
+    21.302066
+  </hasLongitude>
+  <hasLatitude>
+    41.035089
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    170
+  </id>
+  <hasLocation>
+    Битола
+  </hasLocation>
+  <hasDate>
+    03.05.2016
+  </hasDate>
+  <hasNameOfPlace>
+    Бошко Најдовски бр. 44 Битола
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ДВД Ветеринарна амбуланта  ДР. ЧУПОНА увоз-извоз ДООЕЛ
+  </hasLegalEntity>
+  <hasAddress>
+    Бошко Најдовски бр. 44 Битола
+  </hasAddress>
+  <hasLongitude>
+    21.34602212274312
+  </hasLongitude>
+  <hasLatitude>
+    41.03051023003515
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    171
+  </id>
+  <hasLocation>
+    Штип
+  </hasLocation>
+  <hasDate>
+    31.08.2016
+  </hasDate>
+  <hasNameOfPlace>
+    ул. Митко Соколов бр.8 Штип
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Друштво со ограничена одговорност ВЕтеринарна Станица ДООЕЛ Штип
+  </hasLegalEntity>
+  <hasAddress>
+    ул. Митко Соколов бр.8 Штип
+  </hasAddress>
+  <hasLongitude>
+    22.208
+  </hasLongitude>
+  <hasLatitude>
+    41.743
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    172
+  </id>
+  <hasLocation>
+    Штип
+  </hasLocation>
+  <hasDate>
+    30.05.2016
+  </hasDate>
+  <hasNameOfPlace>
+    бр.30 с. Долни Балван општина Карбинци
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ДВУ ПРИМА ВЕТ КОМПАНИ ДОО   с. Долни Балван Карбинци
+  </hasLegalEntity>
+  <hasAddress>
+    населено место без уличен систем бр.30/а Долни Балван
+  </hasAddress>
+  <hasLongitude>
+    22.2005
+  </hasLongitude>
+  <hasLatitude>
+    41.742
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    173
+  </id>
+  <hasLocation>
+    Скопје
+  </hasLocation>
+  <hasDate>
+    07.06.2016
+  </hasDate>
+  <hasNameOfPlace>
+    ул. Васко Карангелевски бр.9 Аеродром
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ДВУП ДР. Марин Величковски ДООЕЛ Скопје
+  </hasLegalEntity>
+  <hasAddress>
+    ул. Васко Карангелевски бр.9 Аеродром
+  </hasAddress>
+  <hasLongitude>
+    21.456160931905245
+  </hasLongitude>
+  <hasLatitude>
+    41.98299229351586
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    174
+  </id>
+  <hasLocation>
+    Скопје
+  </hasLocation>
+  <hasDate>
+    11.07.2016
+  </hasDate>
+  <hasNameOfPlace>
+    бул. Кузман Јосифовски Питу бр.26/1 лок.4
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Ветеринарна Амбуланта ПРИМА ВЕТ МЕДИКА ДОО СКОПЈЕ
+  </hasLegalEntity>
+  <hasAddress>
+    бул. Кузман Јосифовски Питу бр.26/1 лок.4
+  </hasAddress>
+  <hasLongitude>
+    21.4185
+  </hasLongitude>
+  <hasLatitude>
+    41.949
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    175
+  </id>
+  <hasLocation>
+    Прилеп
+  </hasLocation>
+  <hasDate>
+    31.08.2016
+  </hasDate>
+  <hasNameOfPlace>
+    ул. Андон Слабејко бр.20 Прилеп
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ДППУ ИЛЕМИК увоз-извоз ДООЕЛ Прилеп
+  </hasLegalEntity>
+  <hasAddress>
+    ул.Орде Тодороски-Шемко бр.47 Прилеп
+  </hasAddress>
+  <hasLongitude>
+    21.5645
+  </hasLongitude>
+  <hasLatitude>
+    41.343
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    176
+  </id>
+  <hasLocation>
+    Битола
+  </hasLocation>
+  <hasDate>
+    23.02.2017
+  </hasDate>
+  <hasNameOfPlace>
+    ул. ПРЕВАЛЕЦ бр.18 Битола
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ВЕТЕРИНАРНА АМБУЛАНТА     ВЕТ  СЕРВИС ДООЕЛ БИТОЛА
+  </hasLegalEntity>
+  <hasAddress>
+    ул. ПРЕВАЛЕЦ бр.18 Битола
+  </hasAddress>
+  <hasLongitude>
+    21.30195440408205
+  </hasLongitude>
+  <hasLatitude>
+    41.03216917662069
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    177
+  </id>
+  <hasLocation>
+    Свети Николе
+  </hasLocation>
+  <hasDate>
+    03.03.2017
+  </hasDate>
+  <hasNameOfPlace>
+    с.Ерџелија Свети Николе
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Друштво за производство, трговија и услуги ТРНИЦА ДОО с. Трница Маврово и Ростуша
+  </hasLegalEntity>
+  <hasAddress>
+    населено место без уличен систем бр. 1 Трница Ростуша, Маврово
+  </hasAddress>
+  <hasLongitude>
+    21.984
+  </hasLongitude>
+  <hasLatitude>
+    41.745
+  </hasLatitude>
+  <hasType>
+    В.С.О
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    178
+  </id>
+  <hasLocation>
+    Охрид
+  </hasLocation>
+  <hasDate>
+    13.03.2017
+  </hasDate>
+  <hasNameOfPlace>
+    ул. Славеј Планина бр. 12  Охрид
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Трговско друштво за производство, трговија и услуги ВЕТ СПИРИТ ДОО Охрид
+  </hasLegalEntity>
+  <hasAddress>
+    ул. Славеј Планина бр. 12  Охрид
+  </hasAddress>
+  <hasLongitude>
+    20.80953963697249
+  </hasLongitude>
+  <hasLatitude>
+    41.110100706782966
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    179
+  </id>
+  <hasLocation>
+    Струмица
+  </hasLocation>
+  <hasDate>
+    08.05.2017
+  </hasDate>
+  <hasNameOfPlace>
+    ул. Маршал Тито бр.174 Срумица
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Друштво за производство, трговија и услуги ДОКТОР ДОЛИТЛ ДООЕЛ Струмица
+  </hasLegalEntity>
+  <hasAddress>
+    ул. Маршал Тито бр.174 Срумица
+  </hasAddress>
+  <hasLongitude>
+    22.6523
+  </hasLongitude>
+  <hasLatitude>
+    41.436
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    180
+  </id>
+  <hasLocation>
+    Крива Паланка
+  </hasLocation>
+  <hasDate>
+    27.06.2017
+  </hasDate>
+  <hasNameOfPlace>
+    ул.населено место без уличен систем Ранковце
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ДПТУ ПЕТАР ПАВЕЛ ВЕТ ДООЕЛ увоз - извоз с. Ранковце, Ранковце
+  </hasLegalEntity>
+  <hasAddress>
+    ул.населено место без уличен систем Ранковце
+  </hasAddress>
+  <hasLongitude>
+    22.3505
+  </hasLongitude>
+  <hasLatitude>
+    42.0085
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    181
+  </id>
+  <hasLocation>
+    Скопје
+  </hasLocation>
+  <hasDate>
+    07.09.2017
+  </hasDate>
+  <hasNameOfPlace>
+    ул. Никола Тримпаре
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ВЕТ СВЕТ ДОО
+  </hasLegalEntity>
+  <hasAddress>
+    ул. Никола Тримпаре
+  </hasAddress>
+  <hasLongitude>
+    21.42029037893922
+  </hasLongitude>
+  <hasLatitude>
+    41.99682207090068
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    182
+  </id>
+  <hasLocation>
+    Делчево
+  </hasLocation>
+  <hasDate>
+    25.10.2017
+  </hasDate>
+  <hasNameOfPlace>
+    ул. Благој Стоименов бр.5 Делчево
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Ветеринарна амбуланта БАБИЧ ДЕЛ ДООЕЛ Делчево
+  </hasLegalEntity>
+  <hasAddress>
+    у. Благој Стоименов бр.5 Делчево
+  </hasAddress>
+  <hasLongitude>
+    22.67
+  </hasLongitude>
+  <hasLatitude>
+    41.75
+  </hasLatitude>
+  <hasType>
+    Амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    183
+  </id>
+  <hasLocation>
+    Битола
+  </hasLocation>
+  <hasDate>
+    07.11.2017
+  </hasDate>
+  <hasNameOfPlace>
+    ул. Стево Патако бр.28 Битола
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ДПТУ МАНО ПЕТ ВЕТ ДООЕЛ увоз - извоз Битола
+  </hasLegalEntity>
+  <hasAddress>
+    ул. Стево Патако бр.28 Битола
+  </hasAddress>
+  <hasLongitude>
+    21.331936781940787
+  </hasLongitude>
+  <hasLatitude>
+    41.02662662693496
+  </hasLatitude>
+  <hasType>
+    амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    184
+  </id>
+  <hasLocation>
+    Битола
+  </hasLocation>
+  <hasDate>
+    13.11.2017
+  </hasDate>
+  <hasNameOfPlace>
+    с. Крклино Битола
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ДПТГМУ БАР ВЕТ увоз извоз ДООЕЛ Битола
+  </hasLegalEntity>
+  <hasAddress>
+    Булевар 1ви мајбр.243 Битола, Битола
+  </hasAddress>
+  <hasLongitude>
+    21.329572
+  </hasLongitude>
+  <hasLatitude>
+    41.032357
+  </hasLatitude>
+  <hasType>
+    амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    185
+  </id>
+  <hasLocation>
+    Битола
+  </hasLocation>
+  <hasDate>
+    28.11.2017
+  </hasDate>
+  <hasNameOfPlace>
+    Булевар 1 мај 222 Битола
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ДПТУ ЧАВДАР ВЕТ увоз - извоз ДООЕЛ Битола
+  </hasLegalEntity>
+  <hasAddress>
+    Булевар 1 мај 222 Битола
+  </hasAddress>
+  <hasLongitude>
+    21.33852060297067
+  </hasLongitude>
+  <hasLatitude>
+    41.031354986173874
+  </hasLatitude>
+  <hasType>
+    амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    186
+  </id>
+  <hasLocation>
+    Чашка 
+  </hasLocation>
+  <hasDate>
+    5.11.2018
+  </hasDate>
+  <hasNameOfPlace>
+    ул. Илинденска бр.1 Чашка
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Ветеринарна амбуланта ВЕТЕРИНА Др. ДОМАЗЕТОВСКИ ДООЕЛ Чашка, Чашка
+  </hasLegalEntity>
+  <hasAddress>
+    ул. Илинденска бр.1 Чашка
+  </hasAddress>
+  <hasLongitude>
+    21.690092082664727
+  </hasLongitude>
+  <hasLatitude>
+    41.64691704610193
+  </hasLatitude>
+  <hasType>
+    амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    187
+  </id>
+  <hasLocation>
+    Битола
+  </hasLocation>
+  <hasDate>
+    01.06.2018
+  </hasDate>
+  <hasNameOfPlace>
+    с. Ивањевци општина Могила
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ДВД Ветеринарна амбуланта ДР: САШО ПАВЛОВСКИ ДООЕЛ БИТОЛА
+  </hasLegalEntity>
+  <hasAddress>
+    ул. Нико Фундали бр. 13/23 Битола
+  </hasAddress>
+  <hasLongitude>
+    21.329502
+  </hasLongitude>
+  <hasLatitude>
+    41.032399
+  </hasLatitude>
+  <hasType>
+    амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    188
+  </id>
+  <hasLocation>
+    Скопје
+  </hasLocation>
+  <hasDate>
+    21.06.2018
+  </hasDate>
+  <hasNameOfPlace>
+    Бул. Видое Смилевски Батобр. 39 Скопје Аеродром
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    Друштво за услуги ПРИМА МАРК-С ДООЕЛ Скопје
+  </hasLegalEntity>
+  <hasAddress>
+    Бул. Видое Смилевски Бато бр.33/1 - 5А Скопје Аеродром
+  </hasAddress>
+  <hasLongitude>
+    21.432
+  </hasLongitude>
+  <hasLatitude>
+    41.9965
+  </hasLatitude>
+  <hasType>
+    амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    189
+  </id>
+  <hasLocation>
+    Гостивар
+  </hasLocation>
+  <hasDate>
+    17.08.2018
+  </hasDate>
+  <hasNameOfPlace>
+    ул. Млаки 1 бр.1 Здуње  Гостивар
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ДТПТГТУУ АЛИНАС ГРОУП ДООЕЛ експорт импорт Здуње, Гостивар
+  </hasLegalEntity>
+  <hasAddress>
+    Млаки 1 бр.1 Здуње , Гостивар
+  </hasAddress>
+  <hasLongitude>
+    20.895
+  </hasLongitude>
+  <hasLatitude>
+    41.6075
+  </hasLatitude>
+  <hasType>
+    амбуланта
+  </hasType>
+  </ambulance>
+<ambulance>
+<id>
+    190
+  </id>
+  <hasLocation>
+    Струмица
+  </hasLocation>
+  <hasDate>
+    03.12.2018
+  </hasDate>
+  <hasNameOfPlace>
+    ул. Мито Хаџи Василев Јасмин бр.115 Струмица
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ДТПУ ВЕТЕРИНА МЕДИКА увоз-извоз ДООЕЛ Струмица
+  </hasLegalEntity>
+  <hasAddress>
+    ул. Мито Хаџи Василев Јасмин бр.115 Струмица
+  </hasAddress>
+  <hasLongitude>
+    22.6305
+  </hasLongitude>
+  <hasLatitude>
+    41.435
+  </hasLatitude>
+  <hasType>
+    амбуланта 
+  </hasType>
+</ambulance>
+<ambulance>
+<id>
+    191
+  </id>
+  <hasLocation>
+    Кичево
+  </hasLocation>
+  <hasDate>
+    12.13.2018
+  </hasDate>
+  <hasNameOfPlace>
+    ул.11 Септември бр.66 Кичево
+  </hasNameOfPlace>
+  <hasLegalEntity>
+    ДВДТУ ЗЕБРА ВЕТЕРИНА увоз-извоз ДОО Демир Хисар
+  </hasLegalEntity>
+  <hasAddress>
+    ул. Битолска бр.7 Ж Демир Хисар
+  </hasAddress>
+  <hasLongitude>
+    20.981
+  </hasLongitude>
+  <hasLatitude>
+    41.503
+  </hasLatitude>
+  <hasType>
+    амб.дом. мил.
+  </hasType>
+</ambulance>
+</graph>

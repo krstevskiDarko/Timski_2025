@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "basex": "^1.1.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "saxon-js": "^2.7.0",
+    "xmldom": "^0.6.0"
+  }
+}
