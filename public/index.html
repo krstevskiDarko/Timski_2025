@@ -170,12 +170,25 @@
                 filtered = filtered.filter(c => c.location === selectedCity);
             }
 
+            const isAmbulanta = type =>
+                type.toLowerCase().includes("амбуланта");
+
+            const isKlinika = type =>
+                type.toLowerCase().includes("клиника");
+
+            const isBolnica = type =>
+                ["болница", "Станица"].some(keyword =>
+                    type.toLowerCase().includes(keyword)
+                );
             if (selectedType) {
-                if (selectedType === "Амбуланта") {
-                    filtered = filtered.filter(c => c.type.includes("Амбуланта"));
-                } else {
-                    filtered = filtered.filter(c => c.type === selectedType);
-                }
+                filtered = filtered.filter(c => {
+                    const t = c.type.toLowerCase();
+
+                    if (selectedType === "Амбуланта") return isAmbulanta(t);
+                    if (selectedType === "Клиника") return isKlinika(t);
+                    if (selectedType === "Болница") return isBolnica(t);
+                    return t === selectedType.toLowerCase();
+                });
             }
 
             filtered.forEach(clinic => {
