@@ -1,35 +1,6 @@
 <graph>
 <ambulance>
 <id>
-    1
-  </id>
-  <hasLocation>
-    Тетово
-  </hasLocation>
-  <hasDate>
-    15.06.1999
-  </hasDate>
-  <hasNameOfPlace>
-    с.Камењане
-  </hasNameOfPlace>
-  <hasLegalEntity>
-    ЕУРОВЕТ Муамет ДООЕЛ
-  </hasLegalEntity>
-  <hasAddress>
-    с.Камењане
-  </hasAddress>
-  <hasLongitude>
-    25.29583
-  </hasLongitude>
-  <hasLatitude>
-    41.53787
-  </hasLatitude>
-  <hasType>
-    Амбуланта
-  </hasType>
- </ambulance>
-<ambulance>
-<id>
     2
   </id>
   <hasLocation>
@@ -54,7 +25,7 @@
     42.00408259576306
   </hasLatitude>
   <hasType>
-    Станица
+    Болница
   </hasType>
 </ambulance>
 <ambulance>
@@ -83,7 +54,7 @@
     42.00408259576306
   </hasLatitude>
   <hasType>
-    Станица
+    Болница
   </hasType>
 </ambulance>
 <ambulance>
@@ -197,64 +168,6 @@
   </hasLongitude>
   <hasLatitude>
     42.0798
-  </hasLatitude>
-  <hasType>
-    Станица
-  </hasType>
-  </ambulance>
-<ambulance>
-<id>
-    8
-  </id>
-  <hasLocation>
-    Виница
-  </hasLocation>
-  <hasDate>
-    15.07.1999
-  </hasDate>
-  <hasNameOfPlace>
-    ул. Илинденска 96
-  </hasNameOfPlace>
-  <hasLegalEntity>
-    Ветеринарна Станица ДООЕЛ Виница
-  </hasLegalEntity>
-  <hasAddress>
-    ул. Илинденска 96
-  </hasAddress>
-  <hasLongitude>
-    21.12992
-  </hasLongitude>
-  <hasLatitude>
-    45.228468
-  </hasLatitude>
-  <hasType>
-    Станица
-  </hasType>
-  </ambulance>
-<ambulance>
-<id>
-    9
-  </id>
-  <hasLocation>
-    Берово
-  </hasLocation>
-  <hasDate>
-    15.07.1999
-  </hasDate>
-  <hasNameOfPlace>
-    ул. Задарска 60
-  </hasNameOfPlace>
-  <hasLegalEntity>
-    ДОО Ветеринарна Станица Бе -Вет
-  </hasLegalEntity>
-  <hasAddress>
-    ул. Задарска 60
-  </hasAddress>
-  <hasLongitude>
-    15.948627517187502
-  </hasLongitude>
-  <hasLatitude>
-    45.7937168
   </hasLatitude>
   <hasType>
     Станица
@@ -378,35 +291,6 @@
   </ambulance>
 <ambulance>
 <id>
-    14
-  </id>
-  <hasLocation>
-    Гостивар
-  </hasLocation>
-  <hasDate>
-    03.09.1999
-  </hasDate>
-  <hasNameOfPlace>
-    ул.брака Гиновски бб
-  </hasNameOfPlace>
-  <hasLegalEntity>
-    ТПУПТруст ВетДООЕЛ
-  </hasLegalEntity>
-  <hasAddress>
-    ул.ЈНА бр. 254
-  </hasAddress>
-  <hasLongitude>
-    53.321906738447765
-  </hasLongitude>
-  <hasLatitude>
-    24.10333543856844
-  </hasLatitude>
-  <hasType>
-    Станица
-  </hasType>
-  </ambulance>
-<ambulance>
-<id>
     15
   </id>
   <hasLocation>
@@ -494,35 +378,6 @@
   </ambulance>
 <ambulance>
 <id>
-    18
-  </id>
-  <hasLocation>
-    Битола
-  </hasLocation>
-  <hasDate>
-    26.10.1999
-  </hasDate>
-  <hasNameOfPlace>
-     с.Цапари
-  </hasNameOfPlace>
-  <hasLegalEntity>
-    Димовски Анима Вет, Цапари ДООЕЛ
-  </hasLegalEntity>
-  <hasAddress>
-    ул. Север-Југ 2/47
-  </hasAddress>
-  <hasLongitude>
-    19.815899
-  </hasLongitude>
-  <hasLatitude>
-    45.2777612
-  </hasLatitude>
-  <hasType>
-    Амбуланта
-  </hasType>
-  </ambulance>
-<ambulance>
-<id>
     19
   </id>
   <hasLocation>
@@ -535,7 +390,7 @@
     ул. Ѓорги Абаџиев 12
   </hasNameOfPlace>
   <hasLegalEntity>
-    Пет ВетЖивко и Жарко 
+    Пет ВетЖивко и Жарко
   </hasLegalEntity>
   <hasAddress>
     ул. Ѓорги Абаџиев 12
@@ -545,64 +400,6 @@
   </hasLongitude>
   <hasLatitude>
     41.98957355
-  </hasLatitude>
-  <hasType>
-    Амбуланта
-  </hasType>
-  </ambulance>
-<ambulance>
-<id>
-    20
-  </id>
-  <hasLocation>
-    Битола
-  </hasLocation>
-  <hasDate>
-    17.04.2000
-  </hasDate>
-  <hasNameOfPlace>
-    Булевар 1 мај 177
-  </hasNameOfPlace>
-  <hasLegalEntity>
-    Фармалек Трајкова,ДООЕЛ
-  </hasLegalEntity>
-  <hasAddress>
-    ул.ЈНА бр.22-14
-  </hasAddress>
-  <hasLongitude>
-    22.66922575707089
-  </hasLongitude>
-  <hasLatitude>
-    44.261675015314005
-  </hasLatitude>
-  <hasType>
-    Амбуланта за Д.М. 
-  </hasType>
-  </ambulance>
-<ambulance>
-<id>
-    21
-  </id>
-  <hasLocation>
-    Охрид
-  </hasLocation>
-  <hasDate>
-    17.04.2000
-  </hasDate>
-  <hasNameOfPlace>
-    ул.Дејан Војвода бр.5
-  </hasNameOfPlace>
-  <hasLegalEntity>
-    Спироски Оливер Вет Медика ДООЕЛ
-  </hasLegalEntity>
-  <hasAddress>
-    ул. Илинденска 42
-  </hasAddress>
-  <hasLongitude>
-    21.90594575
-  </hasLongitude>
-  <hasLatitude>
-    43.3356353
   </hasLatitude>
   <hasType>
     Амбуланта
@@ -813,35 +610,6 @@
   </ambulance>
 <ambulance>
 <id>
-    29
-  </id>
-  <hasLocation>
-    Прилеп
-  </hasLocation>
-  <hasDate>
-    21.05.2001
-  </hasDate>
-  <hasNameOfPlace>
-    с. Ропотово
-  </hasNameOfPlace>
-  <hasLegalEntity>
-    Прима Вет 
-  </hasLegalEntity>
-  <hasAddress>
-    с. Ропотово
-  </hasAddress>
-  <hasLongitude>
-    41.041771
-  </hasLongitude>
-  <hasLatitude>
-    59.32674
-  </hasLatitude>
-  <hasType>
-    Амбуланта
-  </hasType>
-  </ambulance>
-<ambulance>
-<id>
     30
   </id>
   <hasLocation>
@@ -866,7 +634,7 @@
     41.3206341
   </hasLatitude>
   <hasType>
-    Амбуланта за Д.М. 
+    Амбуланта
   </hasType>
   </ambulance>
 <ambulance>
@@ -929,35 +697,6 @@
   </ambulance>
 <ambulance>
 <id>
-    33
-  </id>
-  <hasLocation>
-    Кичево
-  </hasLocation>
-  <hasDate>
-    21.05.2002
-  </hasDate>
-  <hasNameOfPlace>
-    ул.Гоце Делчев Календарница 2 локал 1/4/2
-  </hasNameOfPlace>
-  <hasLegalEntity>
-     ДООДренуша Вет
-  </hasLegalEntity>
-  <hasAddress>
-    ул. Буковиќ бр. 17
-  </hasAddress>
-  <hasLongitude>
-    20.5177402
-  </hasLongitude>
-  <hasLatitude>
-    44.3296811
-  </hasLatitude>
-  <hasType>
-    Амбуланта
-  </hasType>
-  </ambulance>
-<ambulance>
-<id>
     34
   </id>
   <hasLocation>
@@ -982,7 +721,7 @@
     41.8954144
   </hasLatitude>
   <hasType>
-    Амбуланта 
+    Амбуланта
   </hasType>
   </ambulance>
 <ambulance>
@@ -1041,93 +780,6 @@
   </hasLatitude>
   <hasType>
     Амбуланта
-  </hasType>
-  </ambulance>
-<ambulance>
-<id>
-    37
-  </id>
-  <hasLocation>
-    Крушево
-  </hasLocation>
-  <hasDate>
-    10.07.2003
-  </hasDate>
-  <hasNameOfPlace>
-    ул. Тодор Проески 35
-  </hasNameOfPlace>
-  <hasLegalEntity>
-    Д-р Тасески ДООЕЛ
-  </hasLegalEntity>
-  <hasAddress>
-    ул.Илинденска бр.109
-  </hasAddress>
-  <hasLongitude>
-    27.44254624146417
-  </hasLongitude>
-  <hasLatitude>
-    42.47457435699551
-  </hasLatitude>
-  <hasType>
-    Амбуланта
-  </hasType>
-  </ambulance>
-<ambulance>
-<id>
-    38
-  </id>
-  <hasLocation>
-    Струга
-  </hasLocation>
-  <hasDate>
-    17.10.2003
-  </hasDate>
-  <hasNameOfPlace>
-    ул. Пабло Неруда 18
-  </hasNameOfPlace>
-  <hasLegalEntity>
-    Кавај -вет ДООЕЛ
-  </hasLegalEntity>
-  <hasAddress>
-    ул. Пабло Неруда 18
-  </hasAddress>
-  <hasLongitude>
-    -3.6429741
-  </hasLongitude>
-  <hasLatitude>
-    40.3911131
-  </hasLatitude>
-  <hasType>
-    Амбуланта за Д.М. 
-  </hasType>
-  </ambulance>
-<ambulance>
-<id>
-    39
-  </id>
-  <hasLocation>
-    Штип
-  </hasLocation>
-  <hasDate>
-    31.03.2004
-  </hasDate>
-  <hasNameOfPlace>
-    ул. Солидарност 96
-  </hasNameOfPlace>
-  <hasLegalEntity>
-    ДТП Романа Вет ДООЕЛ
-  </hasLegalEntity>
-  <hasAddress>
-    ул. Солидарност 96
-  </hasAddress>
-  <hasLongitude>
-    38.588409
-  </hasLongitude>
-  <hasLatitude>
-    52.597187
-  </hasLatitude>
-  <hasType>
-    Станица
   </hasType>
   </ambulance>
 <ambulance>
@@ -1244,35 +896,6 @@
   </hasLatitude>
   <hasType>
     Станица
-  </hasType>
-  </ambulance>
-<ambulance>
-<id>
-    44
-  </id>
-  <hasLocation>
-    Охрид
-  </hasLocation>
-  <hasDate>
-    21.12.2004
-  </hasDate>
-  <hasNameOfPlace>
-    Струга ,с. Враниште
-  </hasNameOfPlace>
-  <hasLegalEntity>
-    Спироски Оливер Вет Медика ДООЕЛ
-  </hasLegalEntity>
-  <hasAddress>
-    ул. Илинденска 42
-  </hasAddress>
-  <hasLongitude>
-    21.90594575
-  </hasLongitude>
-  <hasLatitude>
-    43.3356353
-  </hasLatitude>
-  <hasType>
-    Амбуланта
   </hasType>
   </ambulance>
 <ambulance>
@@ -1417,7 +1040,7 @@
     42.00408259576306
   </hasLatitude>
   <hasType>
-    Станица
+    Болница
   </hasType>
   </ambulance>
 <ambulance>
@@ -1446,7 +1069,7 @@
     42.00408259576306
   </hasLatitude>
   <hasType>
-    Станица
+    Болница
   </hasType>
   </ambulance>
 <ambulance>
@@ -1475,7 +1098,7 @@
     42.00408259576306
   </hasLatitude>
   <hasType>
-    Станица
+    Болница
   </hasType>
   </ambulance>
 <ambulance>
@@ -1562,36 +1185,7 @@
     41.3445
   </hasLatitude>
   <hasType>
-    Амбуланта за Д.М. 
-  </hasType>
-  </ambulance>
-<ambulance>
-<id>
-    55
-  </id>
-  <hasLocation>
-    Струмица
-  </hasLocation>
-  <hasDate>
-    06.03.2007
-  </hasDate>
-  <hasNameOfPlace>
-    с. Турново
-  </hasNameOfPlace>
-  <hasLegalEntity>
-    ДИ ВЕТЕРИНАДООЕЛ с. Турново
-  </hasLegalEntity>
-  <hasAddress>
-    с. Турново
-  </hasAddress>
-  <hasLongitude>
-    56.492596
-  </hasLongitude>
-  <hasLatitude>
-    55.702232
-  </hasLatitude>
-  <hasType>
-    Станица
+    Амбуланта
   </hasType>
   </ambulance>
 <ambulance>
@@ -1770,35 +1364,6 @@
   </ambulance>
 <ambulance>
 <id>
-    62
-  </id>
-  <hasLocation>
-    Скопје
-  </hasLocation>
-  <hasDate>
-    03.09.2009
-  </hasDate>
-  <hasNameOfPlace>
-    ул.Дамаска 8Б, Карпош
-  </hasNameOfPlace>
-  <hasLegalEntity>
-    Анимал Медика ДООЕЛ
-  </hasLegalEntity>
-  <hasAddress>
-    ул.Дамаска 8Б
-  </hasAddress>
-  <hasLongitude>
-    34.341541
-  </hasLongitude>
-  <hasLatitude>
-    49.98951
-  </hasLatitude>
-  <hasType>
-    Амбуланта за Д.М. 
-  </hasType>
-  </ambulance>
-<ambulance>
-<id>
     63
   </id>
   <hasLocation>
@@ -1824,35 +1389,6 @@
   </hasLatitude>
   <hasType>
     Амбуланта
-  </hasType>
-  </ambulance>
-<ambulance>
-<id>
-    64
-  </id>
-  <hasLocation>
-    Скопје
-  </hasLocation>
-  <hasDate>
-    29.10.2009
-  </hasDate>
-  <hasNameOfPlace>
-    ул.29 Ноември бр.71
-  </hasNameOfPlace>
-  <hasLegalEntity>
-    Малинка Вет ДОО увоз-извоз
-  </hasLegalEntity>
-  <hasAddress>
-    ул.Ван Гог бр.207
-  </hasAddress>
-  <hasLongitude>
-    23.318947470902845
-  </hasLongitude>
-  <hasLatitude>
-    42.6563452213767
-  </hasLatitude>
-  <hasType>
-    Амбуланта за Д.М. 
   </hasType>
   </ambulance>
 <ambulance>
@@ -1910,7 +1446,7 @@
     42.00269871477203
   </hasLatitude>
   <hasType>
-    В.С.О
+    Клиника
   </hasType>
   </ambulance>
 <ambulance>
@@ -1939,7 +1475,7 @@
     41.1772346
   </hasLatitude>
   <hasType>
-    В.С.О
+    Клиника
   </hasType>
   </ambulance>
 <ambulance>
@@ -2089,35 +1625,6 @@
   </ambulance>
 <ambulance>
 <id>
-    73
-  </id>
-  <hasLocation>
-    Битола
-  </hasLocation>
-  <hasDate>
-    14.09.2010
-  </hasDate>
-  <hasNameOfPlace>
-    ул.1 ви Мај бр.243
-  </hasNameOfPlace>
-  <hasLegalEntity>
-    бар вет ДООЕЛ
-  </hasLegalEntity>
-  <hasAddress>
-    ул.1 ви Мај бр.243
-  </hasAddress>
-  <hasLongitude>
-    27.700082643126866
-  </hasLongitude>
-  <hasLatitude>
-    42.748016581551205
-  </hasLatitude>
-  <hasType>
-    Амбуланта
-  </hasType>
-  </ambulance>
-<ambulance>
-<id>
     74
   </id>
   <hasLocation>
@@ -2171,7 +1678,7 @@
     41.99
   </hasLatitude>
   <hasType>
-    В.С.О
+    Клиника
   </hasType>
   </ambulance>
 <ambulance>
@@ -2229,7 +1736,7 @@
     41.7367848
   </hasLatitude>
   <hasType>
-    В.С.О
+    Клиника
   </hasType>
   </ambulance>
 <ambulance>
@@ -2287,7 +1794,7 @@
     41.74516808891092
   </hasLatitude>
   <hasType>
-    В.С.О
+    Клиника
   </hasType>
   </ambulance>
 <ambulance>
@@ -2314,35 +1821,6 @@
   </hasLongitude>
   <hasLatitude>
     42.0035
-  </hasLatitude>
-  <hasType>
-    Амбуланта
-  </hasType>
-  </ambulance>
-<ambulance>
-<id>
-    81
-  </id>
-  <hasLocation>
-    Ресен
-  </hasLocation>
-  <hasDate>
-    25.01.2011
-  </hasDate>
-  <hasNameOfPlace>
-    ул.6-та бр.72, Ресен
-  </hasNameOfPlace>
-  <hasLegalEntity>
-    Др. Перо Стојчевски ДООЕЛ
-  </hasLegalEntity>
-  <hasAddress>
-    ул.6-та бр.72,
-  </hasAddress>
-  <hasLongitude>
-    -52.304834
-  </hasLongitude>
-  <hasLatitude>
-    -31.435166
   </hasLatitude>
   <hasType>
     Амбуланта
@@ -2408,35 +1886,6 @@
   </ambulance>
 <ambulance>
 <id>
-    84
-  </id>
-  <hasLocation>
-    Куманово
-  </hasLocation>
-  <hasDate>
-    21.01.2011
-  </hasDate>
-  <hasNameOfPlace>
-    ул.205, бр.4
-  </hasNameOfPlace>
-  <hasLegalEntity>
-    Ветеринарна клиника ИНО ВЕТ
-  </hasLegalEntity>
-  <hasAddress>
-    ул.205, бр.4
-  </hasAddress>
-  <hasLongitude>
-    -7.9137227
-  </hasLongitude>
-  <hasLatitude>
-    40.6417909
-  </hasLatitude>
-  <hasType>
-    Клиника
-  </hasType>
-  </ambulance>
-<ambulance>
-<id>
     85
   </id>
   <hasLocation>
@@ -2459,64 +1908,6 @@
   </hasLongitude>
   <hasLatitude>
     41.998
-  </hasLatitude>
-  <hasType>
-    Амбуланта
-  </hasType>
-  </ambulance>
-<ambulance>
-<id>
-    86
-  </id>
-  <hasLocation>
-    Валандово
-  </hasLocation>
-  <hasDate>
-    25.01.2011
-  </hasDate>
-  <hasNameOfPlace>
-    ул.Првомајска бр.29
-  </hasNameOfPlace>
-  <hasLegalEntity>
-    ДПТУ фарма АГРИПО ДОО
-  </hasLegalEntity>
-  <hasAddress>
-    ул.Првомајска бр.29
-  </hasAddress>
-  <hasLongitude>
-    20.52186091967293
-  </hasLongitude>
-  <hasLatitude>
-    44.78286804783164
-  </hasLatitude>
-  <hasType>
-    В.С.О
-  </hasType>
-  </ambulance>
-<ambulance>
-<id>
-    87
-  </id>
-  <hasLocation>
-    Скопје
-  </hasLocation>
-  <hasDate>
-    27.01.2011
-  </hasDate>
-  <hasNameOfPlace>
-    ул.Драчевска бр.120
-  </hasNameOfPlace>
-  <hasLegalEntity>
-    Дини ГМ-ВетДОО увоз-извоз
-  </hasLegalEntity>
-  <hasAddress>
-    ул.Драчевска бр.120
-  </hasAddress>
-  <hasLongitude>
-    41.9978
-  </hasLongitude>
-  <hasLatitude>
-    41.9978
   </hasLatitude>
   <hasType>
     Амбуланта
@@ -2633,35 +2024,6 @@
   </hasLongitude>
   <hasLatitude>
     42.0045
-  </hasLatitude>
-  <hasType>
-    Амбуланта
-  </hasType>
-  </ambulance>
-<ambulance>
-<id>
-    92
-  </id>
-  <hasLocation>
-    Радовиш
-  </hasLocation>
-  <hasDate>
-    15.07.2011
-  </hasDate>
-  <hasNameOfPlace>
-    ул.Плачковица бр.221
-  </hasNameOfPlace>
-  <hasLegalEntity>
-    Анимал - Вет ДООЕЛ
-  </hasLegalEntity>
-  <hasAddress>
-    ул.Плачковица бр.221
-  </hasAddress>
-  <hasLongitude>
-    20.866141009639463
-  </hasLongitude>
-  <hasLatitude>
-    44.022534654467705
   </hasLatitude>
   <hasType>
     Амбуланта
@@ -2867,7 +2229,7 @@
     41.7987083
   </hasLatitude>
   <hasType>
-    В.С.О
+    Клиника
   </hasType>
   </ambulance>
 <ambulance>
@@ -2959,35 +2321,6 @@
   </ambulance>
 <ambulance>
 <id>
-    103
-  </id>
-  <hasLocation>
-    Велес
-  </hasLocation>
-  <hasDate>
-    23.07.2012
-  </hasDate>
-  <hasNameOfPlace>
-    Каратманово ВГ
-  </hasNameOfPlace>
-  <hasLegalEntity>
-    УНИАГРО увоз-извоз ДОО
-  </hasLegalEntity>
-  <hasAddress>
-    с.Ново село
-  </hasAddress>
-  <hasLongitude>
-    22.7839149
-  </hasLongitude>
-  <hasLatitude>
-    44.1621209
-  </hasLatitude>
-  <hasType>
-    Амбуланта
-  </hasType>
-  </ambulance>
-<ambulance>
-<id>
     104
   </id>
   <hasLocation>
@@ -3020,7 +2353,7 @@
     105
   </id>
   <hasLocation>
-    Свети Николе 
+    Свети Николе
   </hasLocation>
   <hasDate>
     31.08.2012
@@ -3133,35 +2466,6 @@
   </ambulance>
 <ambulance>
 <id>
-    109
-  </id>
-  <hasLocation>
-    Струмица
-  </hasLocation>
-  <hasDate>
-    05.11.2012
-  </hasDate>
-  <hasNameOfPlace>
-    ул.Климент Охридски бр.29
-  </hasNameOfPlace>
-  <hasLegalEntity>
-    Мега-ВетДООЕЛ
-  </hasLegalEntity>
-  <hasAddress>
-    ул.Климент Охридски бр.29
-  </hasAddress>
-  <hasLongitude>
-    27.82548941019861
-  </hasLongitude>
-  <hasLatitude>
-    43.57437896220751
-  </hasLatitude>
-  <hasType>
-    Амбуланта
-  </hasType>
-  </ambulance>
-<ambulance>
-<id>
     110
   </id>
   <hasLocation>
@@ -3261,7 +2565,7 @@
     ул.10 бб с. Кадино,општ. Илинден
   </hasNameOfPlace>
   <hasLegalEntity>
-    Ветеринарна Станица Јо-Ка Вет ДОО 
+    Ветеринарна Станица Јо-Ка Вет ДОО
   </hasLegalEntity>
   <hasAddress>
     ул.10 бб с. Кадино,општ. Илинден
@@ -3274,35 +2578,6 @@
   </hasLatitude>
   <hasType>
     Клиника
-  </hasType>
-  </ambulance>
-<ambulance>
-<id>
-    114
-  </id>
-  <hasLocation>
-    Струмица
-  </hasLocation>
-  <hasDate>
-    04.12.2012
-  </hasDate>
-  <hasNameOfPlace>
-    с.Сушица бр.105 општ.Ново Село
-  </hasNameOfPlace>
-  <hasLegalEntity>
-    АД З.С.К. Струмица сСушица Н.Село
-  </hasLegalEntity>
-  <hasAddress>
-    с.Сушица бр.105 општ.Ново Село
-  </hasAddress>
-  <hasLongitude>
-    41.428
-  </hasLongitude>
-  <hasLatitude>
-    41.428
-  </hasLatitude>
-  <hasType>
-    В.С.О
   </hasType>
   </ambulance>
 <ambulance>
@@ -3464,7 +2739,7 @@
     с. Теарце
   </hasNameOfPlace>
   <hasLegalEntity>
-    Пајо Вет ДООЕЛ 
+    Пајо Вет ДООЕЛ
   </hasLegalEntity>
   <hasAddress>
     с. Теарце
@@ -3609,7 +2884,7 @@
     ул.Маршал Тито бб.
   </hasNameOfPlace>
   <hasLegalEntity>
-    ДВВДТУ ветеринарна станица Љупчо и др. ДОО 
+    ДВВДТУ ветеринарна станица Љупчо и др. ДОО
   </hasLegalEntity>
   <hasAddress>
     ул.Маршал Тито бб.
@@ -3706,35 +2981,6 @@
   </hasLongitude>
   <hasLatitude>
     41.5128874
-  </hasLatitude>
-  <hasType>
-    Амбуланта
-  </hasType>
-  </ambulance>
-<ambulance>
-<id>
-    129
-  </id>
-  <hasLocation>
-    Радовиш
-  </hasLocation>
-  <hasDate>
-    19.03.2013
-  </hasDate>
-  <hasNameOfPlace>
-    ул. Самоилова бр. 2
-  </hasNameOfPlace>
-  <hasLegalEntity>
-    УНИВЕТ Јонче и др ДОО
-  </hasLegalEntity>
-  <hasAddress>
-    ул Самоилова 2
-  </hasAddress>
-  <hasLongitude>
-    37.76294606167808
-  </hasLongitude>
-  <hasLatitude>
-    47.9591543
   </hasLatitude>
   <hasType>
     Амбуланта
@@ -3911,7 +3157,7 @@
     41.143
   </hasLatitude>
   <hasType>
-    В.С.О
+    Клиника
   </hasType>
   </ambulance>
 <ambulance>
@@ -3969,7 +3215,7 @@
     42.0015
   </hasLatitude>
   <hasType>
-    Амбуланта ДМ
+    Болница
   </hasType>
   </ambulance>
 <ambulance>
@@ -3998,7 +3244,7 @@
     41.626
   </hasLatitude>
   <hasType>
-    В.С.О
+    Клиника
   </hasType>
   </ambulance>
 <ambulance>
@@ -4012,7 +3258,7 @@
     08.01.2014
   </hasDate>
   <hasNameOfPlace>
-    ул. Вардарска бб, м.в. ЛАКА 
+    ул. Вардарска бб, м.в. ЛАКА
   </hasNameOfPlace>
   <hasLegalEntity>
     ДВИЛ Сирмес ТД увоз извоз
@@ -4027,7 +3273,7 @@
     41.705523399472376
   </hasLatitude>
   <hasType>
-    В.С.О
+    Клиника
   </hasType>
   </ambulance>
 <ambulance>
@@ -4177,35 +3423,6 @@
   </ambulance>
 <ambulance>
 <id>
-    145
-  </id>
-  <hasLocation>
-    Богданци
-  </hasLocation>
-  <hasDate>
-    17.07.2014
-  </hasDate>
-  <hasNameOfPlace>
-    ул.Кукушка бр.7
-  </hasNameOfPlace>
-  <hasLegalEntity>
-    ДПТУ ДР.ИЧКОВ ДООЕЛ увоз-извоз
-  </hasLegalEntity>
-  <hasAddress>
-    ул.Кукушка бр.7
-  </hasAddress>
-  <hasLongitude>
-    40.594219
-  </hasLongitude>
-  <hasLatitude>
-    64.450928
-  </hasLatitude>
-  <hasType>
-    Амбуланта
-  </hasType>
-  </ambulance>
-<ambulance>
-<id>
     146
   </id>
   <hasLocation>
@@ -4276,7 +3493,7 @@
     с.Мокриево бр.191
   </hasNameOfPlace>
   <hasLegalEntity>
-    ДПТУ ТРИВЕТ ЗВОНКО ДООЕЛ 
+    ДПТУ ТРИВЕТ ЗВОНКО ДООЕЛ
   </hasLegalEntity>
   <hasAddress>
     ул.Крушевска Република бр.203
@@ -4351,35 +3568,6 @@
   </ambulance>
 <ambulance>
 <id>
-    151
-  </id>
-  <hasLocation>
-    Берово
-  </hasLocation>
-  <hasDate>
-    05.12.2014
-  </hasDate>
-  <hasNameOfPlace>
-    ул.Борис Кидрич бр.14/а
-  </hasNameOfPlace>
-  <hasLegalEntity>
-    ДПТУ КИРОВСКИ-ВЕТ ДООЕЛ увоз-извоз  
-  </hasLegalEntity>
-  <hasAddress>
-    ул.Борис Кидрич бр.14/а
-  </hasAddress>
-  <hasLongitude>
-    19.820812675657265
-  </hasLongitude>
-  <hasLatitude>
-    46.110099511603
-  </hasLatitude>
-  <hasType>
-    Амбуланта
-  </hasType>
-  </ambulance>
-<ambulance>
-<id>
     152
   </id>
   <hasLocation>
@@ -4404,7 +3592,7 @@
     41.9945
   </hasLatitude>
   <hasType>
-    В.С.О
+    Клиника
   </hasType>
   </ambulance>
 <ambulance>
@@ -4433,7 +3621,7 @@
     41.17
   </hasLatitude>
   <hasType>
-    амбуланта
+    Амбуланта
   </hasType>
   </ambulance>
 <ambulance>
@@ -4491,7 +3679,7 @@
     41.97
   </hasLatitude>
   <hasType>
-    амбуланта
+    Амбуланта
   </hasType>
   </ambulance>
 <ambulance>
@@ -4520,7 +3708,7 @@
     41.429
   </hasLatitude>
   <hasType>
-    амбуланта
+    Амбуланта
   </hasType>
   </ambulance>
 <ambulance>
@@ -4549,7 +3737,7 @@
     41.91387754717157
   </hasLatitude>
   <hasType>
-    амбуланта
+    Амбуланта
   </hasType>
   </ambulance>
 <ambulance>
@@ -4578,36 +3766,7 @@
     41.986
   </hasLatitude>
   <hasType>
-    амбуланта
-  </hasType>
-  </ambulance>
-<ambulance>
-<id>
-    159
-  </id>
-  <hasLocation>
-    Тетово
-  </hasLocation>
-  <hasDate>
-    26.10.2015
-  </hasDate>
-  <hasNameOfPlace>
-    с. Нераште
-  </hasNameOfPlace>
-  <hasLegalEntity>
-    ДВУ Про Вет Нераште ДООЕЛ с. Нераште
-  </hasLegalEntity>
-  <hasAddress>
-    ул.101 бр.1
-  </hasAddress>
-  <hasLongitude>
-    -46.71634704881003
-  </hasLongitude>
-  <hasLatitude>
-    -23.44552165
-  </hasLatitude>
-  <hasType>
-    амбуланта
+    Амбуланта
   </hasType>
   </ambulance>
 <ambulance>
@@ -4636,7 +3795,7 @@
     42.0011
   </hasLatitude>
   <hasType>
-    амбуланта
+    Амбуланта
   </hasType>
   </ambulance>
 <ambulance>
@@ -4665,7 +3824,7 @@
     41.99969823682402
   </hasLatitude>
   <hasType>
-    амб.дом. мил.
+    Амбуланта
   </hasType>
   </ambulance>
 <ambulance>
@@ -4682,7 +3841,7 @@
     ул. Велко Влаховиќ бр. 160
   </hasNameOfPlace>
   <hasLegalEntity>
-    Ветеринрна амбулантаПРИМА ДОО Свети Николе
+    Ветеринрна АмбулантаПРИМА ДОО Свети Николе
   </hasLegalEntity>
   <hasAddress>
     ул. Велко Влаховиќ бр. 160
@@ -4694,7 +3853,7 @@
     41.174075238335625
   </hasLatitude>
   <hasType>
-    амбуланта
+    Амбуланта
   </hasType>
  </ambulance>
 <ambulance>
@@ -4711,7 +3870,7 @@
     с. Шемшево
   </hasNameOfPlace>
   <hasLegalEntity>
-    Ветеринарна амбулантаАНИМАЛ ВЕТ ВЛАМА ДООЕЛ с.Шемшево Јегуновце
+    Ветеринарна АмбулантаАНИМАЛ ВЕТ ВЛАМА ДООЕЛ с.Шемшево Јегуновце
   </hasLegalEntity>
   <hasAddress>
     ул. 101 бр. 50 Шемшево, Јегуновце
@@ -4723,7 +3882,7 @@
     42.0019
   </hasLatitude>
   <hasType>
-    амбуланта
+    Амбуланта
   </hasType>
   </ambulance>
 <ambulance>
@@ -4752,7 +3911,7 @@
     41.207558
   </hasLatitude>
   <hasType>
-    амбуланта
+    Амбуланта
   </hasType>
   </ambulance>
 <ambulance>
@@ -4781,7 +3940,7 @@
     41.313
   </hasLatitude>
   <hasType>
-    амбуланта
+    Амбуланта
   </hasType>
   </ambulance>
 <ambulance>
@@ -4798,7 +3957,7 @@
     ул.Гоце Делчев бб с. Кравари
   </hasNameOfPlace>
   <hasLegalEntity>
-    ДВД Ветеринарна амбуланта ФИЛИПОВ ДООЕЛ Битола
+    ДВД Ветеринарна Амбуланта ФИЛИПОВ ДООЕЛ Битола
   </hasLegalEntity>
   <hasAddress>
     бул.Социјалистичка револуција бб Битола
@@ -4810,7 +3969,7 @@
     41.03051
   </hasLatitude>
   <hasType>
-    амбуланта
+    Амбуланта
   </hasType>
   </ambulance>
 <ambulance>
@@ -4839,7 +3998,7 @@
     41.752008830903776
   </hasLatitude>
   <hasType>
-    амбуланта
+    Амбуланта
   </hasType>
   </ambulance>
 <ambulance>
@@ -4856,7 +4015,7 @@
     ул. Кавала бр.1 Битола
   </hasNameOfPlace>
   <hasLegalEntity>
-    ДУТП  Ветеринарна амбуланта ДР. Стојаноски  увоз извоз ДООЕЛ Битола
+    ДУТП  Ветеринарна Амбуланта ДР. Стојаноски  увоз извоз ДООЕЛ Битола
   </hasLegalEntity>
   <hasAddress>
     ул. Кавала бр.1 Битола
@@ -4868,7 +4027,7 @@
     41.03420455773544
   </hasLatitude>
   <hasType>
-    амбуланта
+    Амбуланта
   </hasType>
   </ambulance>
 <ambulance>
@@ -4914,7 +4073,7 @@
     Бошко Најдовски бр. 44 Битола
   </hasNameOfPlace>
   <hasLegalEntity>
-    ДВД Ветеринарна амбуланта  ДР. ЧУПОНА увоз-извоз ДООЕЛ
+    ДВД Ветеринарна Амбуланта  ДР. ЧУПОНА увоз-извоз ДООЕЛ
   </hasLegalEntity>
   <hasAddress>
     Бошко Најдовски бр. 44 Битола
@@ -5129,7 +4288,7 @@
     41.745
   </hasLatitude>
   <hasType>
-    В.С.О
+    Клиника
   </hasType>
   </ambulance>
 <ambulance>
@@ -5262,7 +4421,7 @@
     ул. Благој Стоименов бр.5 Делчево
   </hasNameOfPlace>
   <hasLegalEntity>
-    Ветеринарна амбуланта БАБИЧ ДЕЛ ДООЕЛ Делчево
+    Ветеринарна Амбуланта БАБИЧ ДЕЛ ДООЕЛ Делчево
   </hasLegalEntity>
   <hasAddress>
     у. Благој Стоименов бр.5 Делчево
@@ -5303,7 +4462,7 @@
     41.02662662693496
   </hasLatitude>
   <hasType>
-    амбуланта
+    Амбуланта
   </hasType>
   </ambulance>
 <ambulance>
@@ -5332,7 +4491,7 @@
     41.032357
   </hasLatitude>
   <hasType>
-    амбуланта
+    Амбуланта
   </hasType>
   </ambulance>
 <ambulance>
@@ -5361,7 +4520,7 @@
     41.031354986173874
   </hasLatitude>
   <hasType>
-    амбуланта
+    Амбуланта
   </hasType>
   </ambulance>
 <ambulance>
@@ -5369,7 +4528,7 @@
     186
   </id>
   <hasLocation>
-    Чашка 
+    Чашка
   </hasLocation>
   <hasDate>
     5.11.2018
@@ -5378,7 +4537,7 @@
     ул. Илинденска бр.1 Чашка
   </hasNameOfPlace>
   <hasLegalEntity>
-    Ветеринарна амбуланта ВЕТЕРИНА Др. ДОМАЗЕТОВСКИ ДООЕЛ Чашка, Чашка
+    Ветеринарна Амбуланта ВЕТЕРИНА Др. ДОМАЗЕТОВСКИ ДООЕЛ Чашка, Чашка
   </hasLegalEntity>
   <hasAddress>
     ул. Илинденска бр.1 Чашка
@@ -5390,7 +4549,7 @@
     41.64691704610193
   </hasLatitude>
   <hasType>
-    амбуланта
+    Амбуланта
   </hasType>
   </ambulance>
 <ambulance>
@@ -5407,7 +4566,7 @@
     с. Ивањевци општина Могила
   </hasNameOfPlace>
   <hasLegalEntity>
-    ДВД Ветеринарна амбуланта ДР: САШО ПАВЛОВСКИ ДООЕЛ БИТОЛА
+    ДВД Ветеринарна Амбуланта ДР: САШО ПАВЛОВСКИ ДООЕЛ БИТОЛА
   </hasLegalEntity>
   <hasAddress>
     ул. Нико Фундали бр. 13/23 Битола
@@ -5419,7 +4578,7 @@
     41.032399
   </hasLatitude>
   <hasType>
-    амбуланта
+    Амбуланта
   </hasType>
   </ambulance>
 <ambulance>
@@ -5448,7 +4607,7 @@
     41.9965
   </hasLatitude>
   <hasType>
-    амбуланта
+    Амбуланта
   </hasType>
   </ambulance>
 <ambulance>
@@ -5477,7 +4636,7 @@
     41.6075
   </hasLatitude>
   <hasType>
-    амбуланта
+    Амбуланта
   </hasType>
   </ambulance>
 <ambulance>
@@ -5506,7 +4665,7 @@
     41.435
   </hasLatitude>
   <hasType>
-    амбуланта 
+    Амбуланта
   </hasType>
 </ambulance>
 <ambulance>
@@ -5535,7 +4694,7 @@
     41.503
   </hasLatitude>
   <hasType>
-    амб.дом. мил.
+    Амбуланта
   </hasType>
 </ambulance>
 </graph>
