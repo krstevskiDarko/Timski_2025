@@ -1,4 +1,4 @@
-
+   // @charset "UTF-8";
     const map = L.map('map').setView([41.6082, 21.7453], 8);
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
       maxZoom: 19,

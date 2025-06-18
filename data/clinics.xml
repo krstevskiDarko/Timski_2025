@@ -453,12 +453,8 @@
   <hasAddress>
     ул.Ладо Лапецот
   </hasAddress>
-  <hasLongitude>
-    21.540988271261657
-  </hasLongitude>
-  <hasLatitude>
-    41.34781253880684
-  </hasLatitude>
+  <hasLongitude>21.5525</hasLongitude>
+<hasLatitude>41.3420</hasLatitude>
   <hasType>
     Амбуланта
   </hasType>
@@ -609,34 +605,16 @@
   </hasType>
   </ambulance>
 <ambulance>
-<id>
-    30
-  </id>
-  <hasLocation>
-    Скопје
-  </hasLocation>
-  <hasDate>
-    23.07.2001
-  </hasDate>
-  <hasNameOfPlace>
-    ул. Црвена Вода бр.18
-  </hasNameOfPlace>
-  <hasLegalEntity>
-    Зоовет-Центар Захарие ДООЕЛ
-  </hasLegalEntity>
-  <hasAddress>
-    ул. Црвена Вода бр.18
-  </hasAddress>
-  <hasLongitude>
-    20.7676509
-  </hasLongitude>
-  <hasLatitude>
-    41.3206341
-  </hasLatitude>
-  <hasType>
-    Амбуланта
-  </hasType>
-  </ambulance>
+  <id>30</id>
+  <hasLocation>Скопје</hasLocation>
+  <hasDate>23.07.2001</hasDate>
+  <hasNameOfPlace>ул. Црвена Вода бр.18</hasNameOfPlace>
+  <hasLegalEntity>Зоовет-Центар Захарие ДООЕЛ</hasLegalEntity>
+  <hasAddress>ул. Црвена Вода бр.18</hasAddress>
+  <hasLongitude>21.41747975</hasLongitude>
+  <hasLatitude>41.98957355</hasLatitude>
+  <hasType>Амбуланта</hasType>
+</ambulance>
 <ambulance>
 <id>
     31
@@ -801,12 +779,8 @@
   <hasAddress>
     ул. Моша Пијаде бб
   </hasAddress>
-  <hasLongitude>
-    21.33623826659433
-  </hasLongitude>
-  <hasLatitude>
-    41.03242465221065
-  </hasLatitude>
+<hasLongitude>21.5525</hasLongitude>
+<hasLatitude>41.3420</hasLatitude>
   <hasType>
     Амбуланта
   </hasType>
@@ -1439,12 +1413,8 @@
   <hasAddress>
     с.Челопек
   </hasAddress>
-  <hasLongitude>
-    21.44623262320673
-  </hasLongitude>
-  <hasLatitude>
-    42.00269871477203
-  </hasLatitude>
+ <hasLongitude>20.9799</hasLongitude>
+<hasLatitude>42.0010</hasLatitude>
   <hasType>
     Клиника
   </hasType>
@@ -1555,12 +1525,8 @@
   <hasAddress>
     с.Подбреѓе , Јегуновце
   </hasAddress>
-  <hasLongitude>
-    21.1211218
-  </hasLongitude>
-  <hasLatitude>
-    42.0632269
-  </hasLatitude>
+<hasLongitude>21.4300</hasLongitude>
+<hasLatitude>41.9950</hasLatitude>
   <hasType>
     Амбуланта
   </hasType>
@@ -1961,12 +1927,8 @@
   <hasAddress>
     ул. Индустриска бб.
   </hasAddress>
-  <hasLongitude>
-    21.47194853234229
-  </hasLongitude>
-  <hasLatitude>
-    41.994268906493
-  </hasLatitude>
+ <hasLongitude>21.3400</hasLongitude>
+<hasLatitude>41.0300</hasLatitude>
   <hasType>
     Клиника
   </hasType>
@@ -1990,12 +1952,8 @@
   <hasAddress>
     ул.Моша Пијаде бр.5
   </hasAddress>
-  <hasLongitude>
-    21.33623826659433
-  </hasLongitude>
-  <hasLatitude>
-    41.03242465221065
-  </hasLatitude>
+<hasLongitude>21.9486</hasLongitude>
+<hasLatitude>41.8647</hasLatitude>
   <hasType>
     Амбуланта
   </hasType>
@@ -2193,12 +2151,8 @@
   <hasAddress>
     ул.29 Ноември бр.2
   </hasAddress>
-  <hasLongitude>
-    21.554397596344664
-  </hasLongitude>
-  <hasLatitude>
-    41.34575361273471
-  </hasLatitude>
+ <hasLongitude>22.5612</hasLongitude>
+<hasLatitude>41.3169</hasLatitude>
   <hasType>
     Амбуланта
   </hasType>
@@ -2483,12 +2437,8 @@
   <hasAddress>
     ул.29 Ноември бр.1
   </hasAddress>
-  <hasLongitude>
-    21.554397596344664
-  </hasLongitude>
-  <hasLatitude>
-    41.34575361273471
-  </hasLatitude>
+  <hasLongitude>21.0892</hasLongitude>
+<hasLatitude>41.0889</hasLatitude>
   <hasType>
     Амбуланта
   </hasType>
@@ -2628,12 +2578,8 @@
   <hasAddress>
     с.Подбреѓе , Јегуновце
   </hasAddress>
-  <hasLongitude>
-    21.1211218
-  </hasLongitude>
-  <hasLatitude>
-    42.0632269
-  </hasLatitude>
+ <hasLongitude>21.4300</hasLongitude>
+<hasLatitude>41.9950</hasLatitude>
   <hasType>
     Амбуланта
   </hasType>
@@ -2889,12 +2835,8 @@
   <hasAddress>
     ул.Маршал Тито бб.
   </hasAddress>
-  <hasLongitude>
-    20.674408315256716
-  </hasLongitude>
-  <hasLatitude>
-    41.1772346
-  </hasLatitude>
+  <hasLongitude>21.2030</hasLongitude>
+<hasLatitude>41.2207</hasLatitude>
   <hasType>
     Амбуланта
   </hasType>
@@ -2976,12 +2918,8 @@
   <hasAddress>
     ул. Јане Сандански 8
   </hasAddress>
-  <hasLongitude>
-    21.215093374390243
-  </hasLongitude>
-  <hasLatitude>
-    41.5128874
-  </hasLatitude>
+  <hasLongitude>20.9718</hasLongitude>
+<hasLatitude>42.0019</hasLatitude>
   <hasType>
     Амбуланта
   </hasType>
@@ -3846,12 +3784,8 @@
   <hasAddress>
     ул. Велко Влаховиќ бр. 160
   </hasAddress>
-  <hasLongitude>
-    20.669639921964407
-  </hasLongitude>
-  <hasLatitude>
-    41.174075238335625
-  </hasLatitude>
+ <hasLongitude>21.9486</hasLongitude>
+<hasLatitude>41.8647</hasLatitude>
   <hasType>
     Амбуланта
   </hasType>
@@ -4189,7 +4123,7 @@
     бул. Кузман Јосифовски Питу бр.26/1 лок.4
   </hasNameOfPlace>
   <hasLegalEntity>
-    Ветеринарна Амбуланта ПРИМА ВЕТ МЕДИКА ДОО СКОПЈЕ
+    Ветеринарна Амбуланта ПРИМА ВЕТ МЕДИКА ДОО Скопје
   </hasLegalEntity>
   <hasAddress>
     бул. Кузман Јосифовски Питу бр.26/1 лок.4
