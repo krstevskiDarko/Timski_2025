@@ -1,6 +1,6 @@
 const express = require('express');
 const basex = require('basex');
-const cors = require('cors'); // <-- Add this
+const cors = require('cors'); 
 const app = express();
 const port = 3000;
 
@@ -56,12 +56,12 @@ app.get('/api/clinics', async (req, res) => {
         const clinics = result.split('},{')
             .map(clinicStr => {
                 try {
-                    // Ensure proper JSON formatting
+                    
                     let jsonStr = clinicStr.trim();
                     if (!jsonStr.startsWith('{')) jsonStr = '{' + jsonStr;
                     if (!jsonStr.endsWith('}')) jsonStr = jsonStr + '}';
 
-                    // Parse and clean the clinic data
+                    
                     const clinic = JSON.parse(jsonStr);
                     return {
                         id: clinic.id.trim(),
@@ -155,3 +155,35 @@ process.on('SIGINT', () => {
         process.exit();
     });
 });
+app.post('/api/xquery', async (req, res) => {
+    const { query } = req.body;
+
+    if (!query) {
+        return res.status(400).json({ error: "No XQuery provided" });
+    }
+
+    try {
+        const result = await new Promise((resolve, reject) => {
+            client.execute(`xquery ${query}`, (err, result) => {
+                if (err) return reject(err);
+                resolve(result.result);
+            });
+        });
+
+        res.set('Content-Type', 'application/xml');
+        res.send(result);
+    } catch (err) {
+        console.error("XQuery execution error:", err);
+        res.status(500).json({
+            error: "XQuery execution failed",
+            details: err.message
+        });
+    }
+});
+app.use(express.static('public'));
+const path = require('path');
+
+app.get('/', (req, res) => {
+    res.sendFile('C:/Users/ninam/OneDrive/Desktop/Timski_2025/public/xquery.html');
+});
+
