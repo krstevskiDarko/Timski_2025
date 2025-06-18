@@ -1,222 +1,134 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Veterinary Clinics Map</title>
-    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css"/>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet"/>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Ветеринарни клиники</title>
 
-    <style>
-        html, body {
-            height: 100%;
-            margin: 0;
-        }
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet-routing-machine/dist/leaflet-routing-machine.css" />
 
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f8f9fa; /* Match background color */
-            display: flex;
-            flex-direction: column;
-        }
+  <!-- Bootstrap 5 -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
 
-        .content {
-            flex: 1; /* Allow content to grow and fill available space */
-        }
+  <!-- Google Fonts for a cleaner modern look -->
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
 
-        #map {
-            height: 600px; /* Set the height of the map */
-        }
+  <!-- Custom CSS -->
+  <style>
+    body {
+      font-family: 'Inter', sans-serif;
+      background-color: #f8f9fa;
+    }
 
-        .tooltip {
-            position: absolute;
-            text-align: center;
-            padding: 8px;
-            font: 12px sans-serif;
-            background: lightsteelblue;
-            border: 0px;
-            border-radius: 8px;
-            pointer-events: none;
-        }
+    #map {
+      height: 600px;
+      border-radius: 12px;
+    }
 
-        footer {
-            background-color: #343a40;
-            color: rgb(108, 117, 125);
-            text-align: center;
-            padding: 10px 0;
-            width: 100%;
-        }
+    .navbar-brand {
+      font-weight: 600;
+      font-size: 1.2rem;
+    }
 
-        footer p {
-            margin: 0;
-            font-size: 0.8rem;
-        }
-    </style>
+    footer {
+      padding: 1rem 0;
+      text-align: center;
+      font-size: 0.9rem;
+    }
+
+    .form-select {
+      border-radius: 0.5rem;
+    }
+
+    .card {
+      border: none;
+      border-radius: 0.75rem;
+      box-shadow: 0 0 8px rgba(0, 0, 0, 0.05);
+    }
+
+    .card-title {
+      font-size: 1rem;
+      font-weight: 600;
+    }
+
+    #clear-route-btn {
+      font-weight: 500;
+      border-radius: 0.5rem;
+    }
+
+    button.leaflet-routing-alt {
+      font-size: 0.9rem;
+    }
+
+    .btn-primary {
+      background-color: #0d6efd;
+      border: none;
+    }
+  </style>
 </head>
 <body>
 
-<nav class="navbar navbar-expand-lg navbar-dark bg-dark px-3">
-    <div class="container-fluid">
-        <a class="navbar-brand" href="#">Ветеринарни клиники во Р.С Македонија</a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
-                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarNav">
-            <ul class="navbar-nav ms-auto">
-                <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="interactiveMap.html">Почетна</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="AddressPage.html">Адресар</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="forProduction.html">За изработката</a>
-                </li>
-            </ul>
-        </div>
-    </div>
-</nav>
-
-<div class="content">
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark shadow-sm">
     <div class="container">
-        <div class="row">
-            <div class="col-8 py-4">
-                <div id="map"></div> <!-- Map container -->
-                <div class="tooltip" style="opacity: 0;"></div>
-            </div>
-            <div class="col-4 py-4">
-                <!-- Dropdown for selecting city -->
-                <div class="mb-4">
-                    <label for="city-select" class="form-label">Изберете општина</label>
-                    <select id="city-select" class="form-select">
-                        <option value="">Сите општини</option>
-                    </select>
-                </div>
-                <div class="mb-4">
-                    <label for="type-select" class="form-label">Изберете тип</label>
-                    <select id="type-select" class="form-select">
-                        <option value="">Сите типови</option>
-                    </select>
-                </div>
+      <a class="navbar-brand" href="#">🐾 Ветеринарни клиники во Р.С. Македонија</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
+        <ul class="navbar-nav">
+          <li class="nav-item">
+            <a class="nav-link active" href="interactiveMap.html">Почетна</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="forProduction.html">За изработката</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
 
-                <!-- Card for displaying total number of clinics -->
-                <div class="card mb-4">
-                    <div class="card-body">
-                        <h5 class="card-title">Вкупен број на клиники</h5>
-                        <p class="card-text" id="clinic-count">0</p>
-                    </div>
-                </div>
-            </div>
+  <div class="container py-5">
+    <div class="row g-4">
+      <div class="col-lg-8">
+        <div id="map" class="shadow-sm"></div>
+      </div>
+      <div class="col-lg-4">
+        <div class="mb-4">
+          <label for="city-select" class="form-label fw-semibold">Изберете општина</label>
+          <select id="city-select" class="form-select"></select>
         </div>
+        <div class="mb-4">
+          <label for="type-select" class="form-label fw-semibold">Изберете тип</label>
+          <select id="type-select" class="form-select"></select>
+        </div>
+        <div class="mb-4">
+          <button id="clear-route-btn" class="btn btn-danger w-100" style="display: none;">Отстрани пат и филтри</button>
+        </div>
+        <div class="card text-center">
+          <div class="card-body">
+            <h5 class="card-title"> Вкупен број на клиники</h5>
+            <p class="card-text display-6 mb-0" id="clinic-count">0</p>
+          </div>
+        </div>
+      </div>
     </div>
+  </div>
 
-</div>
-
-<footer class="navbar navbar-dark bg-dark">
+  <footer class="bg-dark text-white">
     <div class="container">
-        <p class="mb-0">Изработено од Георгина Михаилова и Дарко Крстевски</p>
+      <p class="mb-0">Изработено од Георгина Михаилова и Дарко Крстевски</p>
     </div>
-</footer>
+  </footer>
 
-<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
-<script src="https://d3js.org/d3.v7.min.js"></script>
-<script>
-    const map = L.map('map').setView([41.6082, 21.7453], 8);
+  <!-- JS -->
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+  <script src="https://unpkg.com/leaflet-routing-machine/dist/leaflet-routing-machine.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
 
-    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-        maxZoom: 19,
-        attribution: '© OpenStreetMap'
-    }).addTo(map);
+  <script src="script.js"></script>
 
-    d3.json("http://localhost:3000/api/clinics").then(function(data) {
-        const clinics = [];
-        const citySet = new Set();
-        const typeSet = new Set();
-
-        data.forEach(item => {
-            const { id, name, location, type, latitude, longitude, address } = item;
-
-            if (latitude && longitude) {
-                clinics.push({ id, name, location, type, latitude, longitude, address });
-                citySet.add(location);
-                typeSet.add(type);
-            }
-        });
-
-        Array.from(citySet).sort().forEach(city => {
-            d3.select("#city-select")
-                .append("option")
-                .text(city)
-                .attr("value", city);
-        });
-
-        const allowedTypes = ["Амбуланта", "Болница", "Клиника"];
-        allowedTypes.forEach(type => {
-            d3.select("#type-select")
-                .append("option")
-                .text(type)
-                .attr("value", type);
-        });
-
-        const markers = L.layerGroup().addTo(map);
-
-        function updateMarkers(selectedCity, selectedType) {
-            markers.clearLayers();
-
-            let filtered = clinics;
-
-            if (selectedCity) {
-                filtered = filtered.filter(c => c.location === selectedCity);
-            }
-
-            const isAmbulanta = type =>
-                type.toLowerCase().includes("амбуланта");
-
-            const isKlinika = type =>
-                type.toLowerCase().includes("клиника");
-
-            const isBolnica = type =>
-                ["болница", "Станица"].some(keyword =>
-                    type.toLowerCase().includes(keyword)
-                );
-            if (selectedType) {
-                filtered = filtered.filter(c => {
-                    const t = c.type.toLowerCase();
-
-                    if (selectedType === "Амбуланта") return isAmbulanta(t);
-                    if (selectedType === "Клиника") return isKlinika(t);
-                    if (selectedType === "Болница") return isBolnica(t);
-                    return t === selectedType.toLowerCase();
-                });
-            }
-
-            filtered.forEach(clinic => {
-                const marker = L.marker([clinic.latitude, clinic.longitude]).addTo(markers);
-                marker.bindPopup(`<strong>${clinic.name}</strong><br>${clinic.address}`);
-            });
-
-            document.getElementById("clinic-count").textContent = filtered.length;
-        }
-
-        d3.select("#city-select").on("change", function() {
-            updateMarkers(
-                d3.select("#city-select").property("value"),
-                d3.select("#type-select").property("value")
-            );
-        });
-
-        d3.select("#type-select").on("change", function() {
-            updateMarkers(
-                d3.select("#city-select").property("value"),
-                d3.select("#type-select").property("value")
-            );
-        });
-
-        updateMarkers();
-    }).catch(function (error) {
-        console.error("Error loading clinics:", error);
-    });
-</script>
 </body>
 </html>
