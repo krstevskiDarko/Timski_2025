@@ -46,16 +46,26 @@
       clearRouteBtn.style.display = 'none';
       document.getElementById('city-select').value = '';
       document.getElementById('type-select').value = '';
-      updateMarkers();
+      document.getElementById('animal-select').value = '';
+      document.getElementById('service-select').value = '';
     }
 
     d3.json('http://localhost:3000/api/clinics')
       .then((data) => {
-        const clinics = [], citySet = new Set();
-        data.forEach(({ id, name, location, type, latitude, longitude, address }) => {
+        const clinics = [], citySet = new Set(), animalSet = new Set(), serviceSet = new Set(), collaborationSet = new Set;
+          data.forEach(({ id, name, location, type, latitude, longitude, address, animalSpecializations, collaborations, services }) => {
           if (latitude && longitude) {
-            clinics.push({ id, name, location, type, latitude, longitude, address });
+            clinics.push({ id, name, location, type, latitude, longitude, address, animalSpecializations, collaborations, services });
             citySet.add(location);
+            (animalSpecializations || []).forEach(a => {
+                if (a) animalSet.add(a);
+            });
+            (services || []).forEach(s => {
+                if (s) serviceSet.add(s);
+            });
+            (collaborations || []).forEach(c => {
+                if (c) collaborationSet.add(c);
+            });
           }
         });
 
@@ -68,41 +78,102 @@
           d3.select('#type-select').append('option').text(type).attr('value', type);
         });
 
-        const markers = L.layerGroup().addTo(map);
+        [...animalSet].sort().forEach((a) => {
+            d3.select('#animal-select').append('option').text(a).attr('value', a);
+        });
 
-        function updateMarkers(city, type) {
-          markers.clearLayers();
-          let filtered = clinics;
+        [...serviceSet].sort().forEach((s) => {
+            d3.select('#service-select').append('option').text(s).attr('value', s);
+        });
 
-          if (city) filtered = filtered.filter(c => c.location === city);
+          const markers = L.layerGroup().addTo(map);
 
-          if (type) {
-            filtered = filtered.filter(c => {
-              const t = c.type.toLowerCase();
-              if (type === 'Амбуланта') return t.includes('амбуланта');
-              if (type === 'Клиника') return t.includes('клиника');
-              if (type === 'Болница') return t.includes('болница') || t.includes('станица');
-              return t === type.toLowerCase();
-            });
-          }
+          function updateMarkers(city, type,  animal, service) {
+              markers.clearLayers();
+              let filtered = clinics;
 
-          filtered.forEach(clinic => {
-            const popup = `
+              if (city) filtered = filtered.filter(c => c.location === city);
+
+              if (type) {
+                  filtered = filtered.filter(c => {
+                      const t = c.type.toLowerCase();
+                      if (type === 'Амбуланта') return t.includes('амбуланта');
+                      if (type === 'Клиника') return t.includes('клиника');
+                      if (type === 'Болница') return t.includes('болница') || t.includes('станица');
+                      return t === type.toLowerCase();
+                  });
+              }
+
+              if (animal) {
+                  filtered = filtered.filter(c => Array.isArray(c.animalSpecializations) && c.animalSpecializations.includes(animal));
+              }
+
+              if (animal === 'Рептили') {
+                  filtered = filtered.filter(c => !c.services.includes('Груминг'));
+              }
+
+              if (service) {
+                  filtered = filtered.filter(c => Array.isArray(c.services) && c.services.includes(service));
+              }
+
+              filtered.forEach(clinic => {
+                  const popup = `
               <strong>${clinic.name}</strong><br>${clinic.address}<br>
               <button class="btn btn-sm btn-primary mt-2" onclick="onFindPathClick(${clinic.latitude}, ${clinic.longitude})">Најди пат</button>
             `;
-            L.marker([clinic.latitude, clinic.longitude]).addTo(markers).bindPopup(popup);
-          });
+                  L.marker([clinic.latitude, clinic.longitude]).addTo(markers).bindPopup(popup);
+              });
 
-          document.getElementById('clinic-count').textContent = filtered.length;
-        }
+              filtered.forEach(clinic => {
+                  const popup = `
+          <strong>${clinic.name}</strong><br>${clinic.address}<br>
+          <button class="btn btn-sm btn-primary mt-2" onclick="onFindPathClick(${clinic.latitude}, ${clinic.longitude})">Најди пат</button>
+          ${clinic.collaborations && clinic.collaborations.length ? `
+            <button class="btn btn-sm btn-secondary mt-2" onclick="showCollaborations(${clinic.id})">Работи заедно со</button>
+          ` : ''}
+        `;
+                  L.marker([clinic.latitude, clinic.longitude]).addTo(markers).bindPopup(popup);
+              });
 
-        d3.select('#city-select').on('change', () =>
-          updateMarkers(d3.select('#city-select').property('value'), d3.select('#type-select').property('value'))
-        );
-        d3.select('#type-select').on('change', () =>
-          updateMarkers(d3.select('#city-select').property('value'), d3.select('#type-select').property('value'))
-        );
+
+              document.getElementById('clinic-count').textContent = filtered.length;
+          }
+
+          window.showCollaborations = (id) => {
+              const clinic = clinics.find(c => c.id == id);
+              const modalBody = document.getElementById('collaborations-modal-body');
+              if (clinic && clinic.collaborations && clinic.collaborations.length) {
+                  const names = clinic.collaborations
+                      .map(cid => {
+                          const collabClinic = clinics.find(c => c.id == cid);
+                          return collabClinic ? collabClinic.name : null; // skip if no match
+                      })
+                      .filter(name => name !== null);
+                  if (names.length > 0) {
+                      modalBody.innerHTML = '<ul>' + names.map(n => `<li>${n}</li>`).join('') + '</ul>';
+                  } else {
+                      modalBody.textContent = 'Нема информации за соработка.';
+                  }
+              } else {
+                  modalBody.textContent = 'Нема информации за соработка.';
+              }
+              const modal = new bootstrap.Modal(document.getElementById('collaborationsModal'));
+              modal.show();
+          };
+
+          function getSelected(id) {
+              return d3.select(id).property('value');
+          }
+
+
+          d3.selectAll('#city-select, #type-select, #animal-select, #service-select').on('change', () =>
+              updateMarkers(
+                  getSelected('#city-select'),
+                  getSelected('#type-select'),
+                  getSelected('#animal-select'),
+                  getSelected('#service-select')
+              )
+          );
 
         clearRouteBtn.addEventListener('click', resetRoute);
         updateMarkers();

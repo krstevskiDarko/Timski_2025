@@ -94,11 +94,27 @@
       <div class="col-lg-4">
         <div class="mb-4">
           <label for="city-select" class="form-label fw-semibold">Изберете општина</label>
-          <select id="city-select" class="form-select"></select>
+          <select id="city-select" class="form-select">
+            <option value="">Сите општини</option>
+          </select>
         </div>
         <div class="mb-4">
           <label for="type-select" class="form-label fw-semibold">Изберете тип</label>
-          <select id="type-select" class="form-select"></select>
+          <select id="type-select" class="form-select">
+            <option value="">Сите типови</option>
+          </select>
+        </div>
+        <div class="mb-4">
+          <label for="animal-select" class="form-label fw-semibold">Изберете животно</label>
+          <select id="animal-select" class="form-select">
+            <option value="">Сите животни</option>
+          </select>
+        </div>
+        <div class="mb-4">
+          <label for="service-select" class="form-label fw-semibold">Изберете услуга</label>
+          <select id="service-select" class="form-select">
+            <option value="">Сите услуги</option>
+          </select>
         </div>
         <div class="mb-4">
           <button id="clear-route-btn" class="btn btn-danger w-100" style="display: none;">Отстрани пат и филтри</button>
@@ -109,6 +125,18 @@
             <p class="card-text display-6 mb-0" id="clinic-count">0</p>
           </div>
         </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="modal fade" id="collaborationsModal" tabindex="-1" aria-labelledby="collaborationsModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="collaborationsModalLabel">Соработки</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Затвори"></button>
+        </div>
+        <div class="modal-body" id="collaborations-modal-body"></div>
       </div>
     </div>
   </div>
