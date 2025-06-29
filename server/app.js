@@ -217,7 +217,6 @@ app.post('/api/xquery', async (req, res) => {
     }
 });
 app.use(express.static('public'));
-const path = require('path');
 
 app.get('/', (req, res) => {
     res.sendFile('C:/Users/ninam/OneDrive/Desktop/Timski_2025/public/xquery.html');
