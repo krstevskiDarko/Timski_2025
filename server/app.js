@@ -23,27 +23,54 @@ client.execute("open vets_2025", (err) => {
 app.get('/api/clinics', async (req, res) => {
     const query = `
         xquery
+        
         let $clinics := /graph/ambulance
-        return (
-            string-join(
-                for $clinic in $clinics
-                return (
-                    '{' ||
-                    '"id":"' || normalize-space($clinic/id) || '",' ||
-                    '"location":"' || normalize-space($clinic/hasLocation) || '",' ||
-                    '"date":"' || normalize-space($clinic/hasDate) || '",' ||
-                    '"name":"' || normalize-space($clinic/hasNameOfPlace) || '",' ||
-                    '"legalEntity":"' || normalize-space($clinic/hasLegalEntity) || '",' ||
-                    '"address":"' || normalize-space($clinic/hasAddress) || '",' ||
-                    '"longitude":' || $clinic/hasLongitude/number() || ',' ||
-                    '"latitude":' || $clinic/hasLatitude/number() || ',' ||
-                    '"type":"' || normalize-space($clinic/hasType) || '"' ||
-                    '}'
-                ),
-                ','
-            )
-        )
-    `;
+        return
+          '[' ||
+          string-join(
+            for $clinic in $clinics
+            return
+              '{' ||
+              '"id":"' || normalize-space($clinic/id) || '",' ||
+              '"location":"' || normalize-space($clinic/hasLocation) || '",' ||
+              '"date":"' || normalize-space($clinic/hasDate) || '",' ||
+              '"name":"' || normalize-space($clinic/hasNameOfPlace) || '",' ||
+              '"legalEntity":"' || normalize-space($clinic/hasLegalEntity) || '",' ||
+              '"address":"' || normalize-space($clinic/hasAddress) || '",' ||
+              '"longitude":' || $clinic/hasLongitude/number() || ',' ||
+              '"latitude":' || $clinic/hasLatitude/number() || ',' ||
+              '"type":"' || normalize-space($clinic/hasType) || '",' ||
+              '"animalSpecializations":[' ||
+                string-join(
+                  for $a in $clinic/animalSpecializations/animal
+                  return '"' || normalize-space($a) || '"'
+                  , ','
+                )
+              || '],' ||
+        
+           
+        
+              '"collaborations":[' ||
+                string-join(
+                  for $c in $clinic/collaborations/collaboratesWith
+                  return '"' || normalize-space($c) || '"'
+                  , ','
+                )
+              || '],' ||
+        
+              '"services":[' ||
+                string-join(
+                  for $s in $clinic/services/service
+                  return '"' || normalize-space($s) || '"'
+                  , ','
+                )
+              || ']' ||
+        
+              '}'
+            , ','
+          )
+          || ']'
+          `;
 
     try {
         const result = await new Promise((resolve, reject) => {
@@ -72,7 +99,16 @@ app.get('/api/clinics', async (req, res) => {
                         address: clinic.address.trim(),
                         longitude: parseFloat(clinic.longitude),
                         latitude: parseFloat(clinic.latitude),
-                        type: clinic.type.trim()
+                        type: clinic.type.trim(),
+                        animalSpecializations: Array.isArray(clinic.animalSpecializations)
+                            ? clinic.animalSpecializations.map(a => a.trim())
+                            : [],
+                        collaborations: Array.isArray(clinic.collaborations)
+                            ? clinic.collaborations.map(c => c.trim())
+                            : [],
+                        services: Array.isArray(clinic.services)
+                            ? clinic.services.map(s => s.trim())
+                            : []
                     };
                 } catch (e) {
                     console.error('Error parsing clinic:', clinicStr, e);
